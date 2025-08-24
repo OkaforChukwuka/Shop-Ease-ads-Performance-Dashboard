@@ -1,0 +1,801 @@
+Order_ID,Date,Customer_Age,Gender,City,Product_Category,Channel,Ad_Spend_NGN,Revenue_NGN,Repeat_Customer,Device_Used,Payment_Method,Profit_NGN
+1001,2025-07-01,46,Male,Lagos,Home Appliances,Google Ads,5253,18404,Yes,Desktop,Card,7522
+1002,2025-07-02,32,Female,Lagos,Home Appliances,Google Ads,1742,5861,No,Mobile,Bank Transfer,-1070
+1003,2025-07-03,25,Female,Port Harcourt,Home Appliances,Facebook Ads,1306,28095,No,Mobile,Card,22041
+1004,2025-07-04,38,Female,Ibadan,Fashion,Facebook Ads,3849,14275,Yes,Mobile,Bank Transfer,6760
+1005,2025-07-05,36,Female,Abuja,Electronics,Organic,4168,22033,No,Mobile,Bank Transfer,12799
+1006,2025-07-06,40,Male,Lagos,Fashion,WhatsApp Referrals,4576,9134,No,Desktop,Card,1117
+1007,2025-07-07,28,Male,Enugu,Groceries,Instagram Ads,4655,16803,Yes,Desktop,Bank Transfer,9081
+1008,2025-07-08,28,Female,Port Harcourt,Fashion,Instagram Ads,4840,20408,No,Mobile,Card,9345
+1009,2025-07-09,41,Female,Abuja,Groceries,Instagram Ads,5562,28971,No,Desktop,Card,18486
+1010,2025-07-10,53,Female,Port Harcourt,Groceries,WhatsApp Referrals,4195,22420,No,Desktop,Bank Transfer,11972
+1011,2025-07-11,41,Male,Abuja,Beauty,Instagram Ads,5178,21351,No,Mobile,Card,10317
+1012,2025-07-12,20,Female,Abuja,Home Appliances,Instagram Ads,2555,9131,No,Mobile,Bank Transfer,3750
+1013,2025-07-13,39,Female,Kano,Groceries,Organic,2305,23532,Yes,Desktop,Card,13241
+1014,2025-07-14,19,Female,Lagos,Beauty,Facebook Ads,4508,17057,Yes,Mobile,Bank Transfer,5942
+1015,2025-07-15,41,Male,Port Harcourt,Home Appliances,Facebook Ads,1088,16349,Yes,Desktop,COD,9276
+1016,2025-07-16,47,Male,Port Harcourt,Groceries,Google Ads,2642,16486,No,Mobile,Bank Transfer,9752
+1017,2025-07-17,19,Male,Kano,Groceries,WhatsApp Referrals,1177,10457,Yes,Mobile,Card,4101
+1018,2025-07-18,38,Male,Enugu,Fashion,Facebook Ads,6104,11079,Yes,Mobile,COD,-1563
+1019,2025-07-19,50,Male,Enugu,Fashion,Instagram Ads,6409,17453,No,Mobile,Card,5143
+1020,2025-07-20,29,Male,Lagos,Home Appliances,Instagram Ads,4916,23814,No,Desktop,Card,14536
+1021,2025-07-21,39,Male,Lagos,Groceries,Instagram Ads,4757,23263,No,Mobile,Card,14282
+1022,2025-07-22,42,Male,Ibadan,Electronics,Google Ads,2994,17158,Yes,Mobile,Card,10438
+1023,2025-07-23,44,Female,Kano,Fashion,Instagram Ads,559,20735,Yes,Desktop,COD,16170
+1024,2025-07-24,45,Female,Enugu,Home Appliances,Instagram Ads,2964,20830,No,Mobile,Card,10075
+1025,2025-07-25,33,Male,Abuja,Groceries,Instagram Ads,1271,20125,Yes,Mobile,Bank Transfer,16588
+1026,2025-07-26,32,Male,Port Harcourt,Groceries,Google Ads,1813,16905,Yes,Desktop,Bank Transfer,12255
+1027,2025-07-27,20,Female,Lagos,Electronics,Google Ads,2915,28926,No,Desktop,Card,19427
+1028,2025-07-28,54,Male,Port Harcourt,Home Appliances,Organic,609,17298,No,Mobile,Bank Transfer,9892
+1029,2025-07-29,24,Male,Port Harcourt,Groceries,Facebook Ads,2461,7011,No,Mobile,Card,1864
+1030,2025-07-30,38,Male,Ibadan,Fashion,Organic,4120,8373,No,Mobile,Card,-1108
+1031,2025-07-31,26,Female,Enugu,Electronics,Organic,6124,15335,No,Mobile,Card,2120
+1032,2025-08-01,35,Female,Lagos,Home Appliances,Instagram Ads,283,28741,Yes,Mobile,COD,26102
+1033,2025-08-02,21,Female,Port Harcourt,Electronics,Instagram Ads,5568,15692,No,Mobile,COD,4309
+1034,2025-08-03,42,Female,Lagos,Fashion,Instagram Ads,2928,19527,Yes,Mobile,Card,13728
+1035,2025-08-04,31,Female,Abuja,Home Appliances,Facebook Ads,4396,17773,Yes,Mobile,Card,9404
+1036,2025-08-05,26,Male,Ibadan,Electronics,Instagram Ads,1091,6289,No,Mobile,Bank Transfer,-1449
+1037,2025-08-06,43,Female,Abuja,Beauty,Facebook Ads,5126,6447,Yes,Mobile,Card,-2489
+1038,2025-08-07,19,Male,Lagos,Fashion,Instagram Ads,816,24583,No,Desktop,COD,17349
+1039,2025-08-08,37,Male,Lagos,Fashion,Organic,82,27765,Yes,Desktop,Bank Transfer,23042
+1040,2025-08-09,45,Female,Enugu,Fashion,Instagram Ads,1920,28906,No,Mobile,Card,22758
+1041,2025-08-10,24,Female,Port Harcourt,Beauty,Organic,3491,27443,No,Mobile,COD,18561
+1042,2025-08-11,25,Male,Port Harcourt,Beauty,Google Ads,3144,24567,Yes,Mobile,Card,15245
+1043,2025-08-12,52,Male,Abuja,Groceries,Organic,2093,19139,Yes,Mobile,COD,12696
+1044,2025-08-13,31,Male,Ibadan,Electronics,Google Ads,4713,18757,No,Mobile,COD,7687
+1045,2025-08-14,34,Female,Kano,Groceries,Facebook Ads,6405,10462,No,Mobile,Card,-2822
+1046,2025-08-15,53,Female,Port Harcourt,Electronics,Google Ads,175,24600,No,Mobile,Card,17106
+1047,2025-08-16,21,Female,Enugu,Beauty,Facebook Ads,5285,24520,No,Desktop,COD,12226
+1048,2025-08-17,19,Female,Abuja,Beauty,Instagram Ads,2704,24702,No,Mobile,COD,17259
+1049,2025-08-18,23,Female,Abuja,Groceries,WhatsApp Referrals,4937,24166,No,Mobile,Card,12190
+1050,2025-08-19,21,Male,Kano,Home Appliances,Facebook Ads,369,12657,No,Desktop,COD,7558
+1051,2025-08-20,46,Female,Enugu,Groceries,Instagram Ads,1818,9920,No,Mobile,Card,4784
+1052,2025-08-21,35,Male,Ibadan,Electronics,Organic,2101,15345,No,Mobile,Card,9709
+1053,2025-08-22,43,Male,Enugu,Groceries,Organic,4785,27708,No,Mobile,COD,16139
+1054,2025-08-23,51,Male,Ibadan,Fashion,Google Ads,3490,27711,No,Mobile,Card,19778
+1055,2025-08-24,27,Female,Enugu,Electronics,Instagram Ads,1779,13417,No,Desktop,COD,7866
+1056,2025-08-25,53,Female,Enugu,Electronics,Google Ads,1364,22160,No,Mobile,Card,15587
+1057,2025-08-26,31,Female,Lagos,Home Appliances,Instagram Ads,5528,10208,Yes,Mobile,Bank Transfer,-2254
+1058,2025-08-27,48,Male,Abuja,Beauty,Organic,4462,5687,Yes,Mobile,Card,-1652
+1059,2025-08-28,32,Male,Enugu,Electronics,WhatsApp Referrals,3342,21913,No,Mobile,Bank Transfer,13701
+1060,2025-08-29,25,Male,Kano,Beauty,Organic,4739,26451,No,Desktop,Bank Transfer,16512
+1061,2025-08-30,31,Male,Enugu,Groceries,Organic,3676,18223,No,Desktop,Card,8403
+1062,2025-08-31,40,Male,Port Harcourt,Fashion,Facebook Ads,2426,13080,Yes,Mobile,Bank Transfer,4907
+1063,2025-09-01,38,Male,Abuja,Home Appliances,Organic,72,26902,No,Mobile,Card,21994
+1064,2025-09-02,33,Female,Port Harcourt,Beauty,Organic,2962,23537,No,Mobile,Card,18283
+1065,2025-09-03,35,Female,Abuja,Electronics,Facebook Ads,5367,14486,Yes,Desktop,COD,5468
+1066,2025-09-04,41,Female,Port Harcourt,Beauty,Organic,859,11094,No,Mobile,Card,3604
+1067,2025-09-05,43,Female,Enugu,Electronics,Instagram Ads,3856,28358,No,Mobile,Bank Transfer,18096
+1068,2025-09-06,42,Male,Enugu,Beauty,Google Ads,4138,26158,No,Mobile,Bank Transfer,19484
+1069,2025-09-07,46,Male,Lagos,Electronics,Organic,2424,12692,No,Mobile,Bank Transfer,5582
+1070,2025-09-08,32,Female,Kano,Groceries,Google Ads,1064,16088,No,Mobile,Card,12791
+1071,2025-09-09,18,Male,Port Harcourt,Electronics,Facebook Ads,2217,8103,No,Mobile,Card,-1442
+1072,2025-09-10,42,Female,Ibadan,Electronics,Google Ads,4017,7440,No,Mobile,Card,-1229
+1073,2025-09-11,24,Female,Lagos,Fashion,Google Ads,2259,25519,No,Mobile,Bank Transfer,18886
+1074,2025-09-12,26,Female,Port Harcourt,Electronics,WhatsApp Referrals,5612,12124,No,Mobile,COD,2240
+1075,2025-09-13,41,Male,Port Harcourt,Fashion,Instagram Ads,3751,26585,No,Desktop,Bank Transfer,19868
+1076,2025-09-14,18,Female,Lagos,Home Appliances,Instagram Ads,2086,22228,Yes,Mobile,Card,17253
+1077,2025-09-15,25,Female,Enugu,Fashion,Organic,368,19031,No,Mobile,Card,12800
+1078,2025-09-16,41,Female,Port Harcourt,Groceries,Instagram Ads,2804,19536,Yes,Mobile,Card,11332
+1079,2025-09-17,28,Male,Enugu,Fashion,Google Ads,150,5446,No,Mobile,Card,3262
+1080,2025-09-18,34,Male,Lagos,Home Appliances,Google Ads,1134,8915,No,Mobile,Card,1239
+1081,2025-09-19,25,Female,Enugu,Groceries,Organic,5599,20787,Yes,Desktop,Card,9665
+1082,2025-09-20,52,Male,Abuja,Beauty,Google Ads,5555,24493,No,Mobile,Card,15175
+1083,2025-09-21,52,Male,Ibadan,Beauty,Google Ads,5166,22618,Yes,Desktop,Card,12161
+1084,2025-09-22,50,Male,Port Harcourt,Fashion,Facebook Ads,5119,11587,No,Mobile,Card,1980
+1085,2025-09-23,22,Male,Kano,Fashion,Facebook Ads,5694,5226,No,Mobile,Card,-5168
+1086,2025-09-24,45,Male,Ibadan,Home Appliances,Facebook Ads,2784,25527,No,Mobile,Card,19185
+1087,2025-09-25,24,Male,Enugu,Home Appliances,Facebook Ads,6136,28569,Yes,Mobile,Card,15743
+1088,2025-09-26,26,Male,Port Harcourt,Electronics,Google Ads,5485,16151,Yes,Desktop,Bank Transfer,6390
+1089,2025-09-27,25,Male,Enugu,Home Appliances,Organic,4164,10558,No,Desktop,Card,388
+1090,2025-09-28,29,Male,Abuja,Electronics,Google Ads,2346,16971,No,Desktop,Card,8186
+1091,2025-09-29,51,Male,Lagos,Groceries,Organic,5039,5186,No,Desktop,Card,-2956
+1092,2025-09-30,50,Female,Port Harcourt,Fashion,WhatsApp Referrals,4897,19680,No,Desktop,Card,11364
+1093,2025-10-01,40,Female,Abuja,Groceries,Organic,6439,19559,No,Mobile,Card,5711
+1094,2025-10-02,41,Male,Abuja,Home Appliances,Google Ads,2250,16069,No,Mobile,Card,10341
+1095,2025-10-03,54,Female,Port Harcourt,Groceries,Google Ads,60,7535,No,Mobile,Bank Transfer,1561
+1096,2025-10-04,52,Female,Enugu,Groceries,Instagram Ads,5041,6932,Yes,Mobile,Card,-3851
+1097,2025-10-05,39,Male,Kano,Groceries,Facebook Ads,3010,7032,Yes,Desktop,Card,-3225
+1098,2025-10-06,44,Male,Abuja,Home Appliances,Instagram Ads,3901,6252,No,Mobile,COD,-2605
+1099,2025-10-07,52,Male,Ibadan,Groceries,WhatsApp Referrals,1337,10509,Yes,Mobile,Card,5790
+1100,2025-10-08,18,Female,Abuja,Electronics,Organic,1184,10074,No,Mobile,Card,4316
+1101,2025-10-09,52,Female,Kano,Home Appliances,Facebook Ads,4426,18900,No,Mobile,COD,9090
+1102,2025-10-10,54,Male,Enugu,Groceries,Instagram Ads,1551,19523,Yes,Mobile,COD,14403
+1103,2025-10-11,31,Male,Enugu,Home Appliances,Organic,4433,6881,Yes,Mobile,Card,-1446
+1104,2025-10-12,20,Male,Ibadan,Beauty,Facebook Ads,1629,5269,No,Mobile,Card,-603
+1105,2025-10-13,18,Female,Abuja,Electronics,Instagram Ads,1327,6630,No,Mobile,Card,1437
+1106,2025-10-14,22,Female,Enugu,Groceries,Organic,1526,25789,No,Mobile,Card,22235
+1107,2025-10-15,43,Female,Kano,Beauty,Instagram Ads,1673,27523,No,Mobile,Bank Transfer,23145
+1108,2025-10-16,31,Female,Port Harcourt,Beauty,Facebook Ads,1361,22958,No,Mobile,Card,18577
+1109,2025-10-17,44,Male,Lagos,Home Appliances,Google Ads,1573,18383,No,Mobile,Card,12747
+1110,2025-10-18,26,Male,Lagos,Beauty,Organic,2686,21152,No,Mobile,COD,15020
+1111,2025-10-19,32,Male,Lagos,Electronics,Google Ads,4370,16084,No,Mobile,COD,6050
+1112,2025-10-20,32,Male,Abuja,Electronics,Facebook Ads,5283,6695,No,Mobile,Card,-3575
+1113,2025-10-21,43,Female,Ibadan,Fashion,Instagram Ads,2366,24642,Yes,Mobile,Bank Transfer,14521
+1114,2025-10-22,30,Female,Enugu,Electronics,Instagram Ads,6732,19821,No,Mobile,Card,7487
+1115,2025-10-23,49,Male,Port Harcourt,Beauty,Google Ads,6647,8262,No,Mobile,COD,-5447
+1116,2025-10-24,49,Male,Kano,Electronics,Organic,3757,6445,Yes,Mobile,Card,-2997
+1117,2025-10-25,21,Female,Port Harcourt,Home Appliances,Facebook Ads,2434,27647,Yes,Desktop,Card,19845
+1118,2025-10-26,47,Male,Kano,Fashion,Organic,1993,29795,No,Mobile,Card,22221
+1119,2025-10-27,54,Female,Abuja,Beauty,Facebook Ads,869,21436,No,Desktop,Card,15805
+1120,2025-10-28,40,Male,Lagos,Fashion,Instagram Ads,6976,14949,No,Mobile,Card,1936
+1121,2025-10-29,32,Male,Abuja,Beauty,Facebook Ads,1014,26954,Yes,Mobile,Bank Transfer,23368
+1122,2025-10-30,46,Male,Ibadan,Home Appliances,Instagram Ads,1911,28963,Yes,Mobile,Bank Transfer,19350
+1123,2025-10-31,53,Male,Ibadan,Fashion,Google Ads,602,23050,No,Mobile,Card,16360
+1124,2025-11-01,30,Male,Kano,Groceries,Google Ads,3821,11901,No,Mobile,Card,5466
+1125,2025-11-02,49,Male,Enugu,Beauty,Facebook Ads,5895,24169,No,Mobile,Card,12224
+1126,2025-11-03,24,Male,Enugu,Groceries,Google Ads,690,5719,No,Mobile,COD,2704
+1127,2025-11-04,39,Female,Kano,Fashion,Facebook Ads,493,13597,No,Mobile,COD,7364
+1128,2025-11-05,45,Female,Ibadan,Groceries,Organic,489,11855,No,Mobile,COD,9008
+1129,2025-11-06,19,Female,Ibadan,Groceries,WhatsApp Referrals,6864,23678,No,Mobile,COD,11037
+1130,2025-11-07,23,Female,Ibadan,Fashion,Instagram Ads,2556,13263,No,Mobile,Card,2801
+1131,2025-11-08,45,Female,Abuja,Home Appliances,Google Ads,4485,19520,No,Mobile,Card,10664
+1132,2025-11-09,45,Male,Ibadan,Groceries,Instagram Ads,294,16874,No,Desktop,Bank Transfer,12859
+1133,2025-11-10,37,Male,Port Harcourt,Groceries,Facebook Ads,5488,25866,No,Desktop,COD,17029
+1134,2025-11-11,47,Female,Lagos,Home Appliances,Instagram Ads,4027,19079,No,Desktop,Card,9356
+1135,2025-11-12,28,Male,Ibadan,Groceries,Organic,2843,22082,Yes,Mobile,Card,13343
+1136,2025-11-13,45,Female,Kano,Groceries,Google Ads,2912,12243,No,Desktop,COD,3071
+1137,2025-11-14,42,Female,Lagos,Groceries,Facebook Ads,1717,14018,Yes,Desktop,Card,8705
+1138,2025-11-15,50,Male,Abuja,Electronics,Organic,2596,27302,No,Mobile,Card,21079
+1139,2025-11-16,18,Male,Kano,Home Appliances,Google Ads,4744,21732,No,Mobile,Bank Transfer,12486
+1140,2025-11-17,44,Male,Lagos,Groceries,Organic,1873,26758,No,Desktop,Card,17613
+1141,2025-11-18,30,Female,Kano,Home Appliances,Google Ads,4663,17100,Yes,Mobile,Card,6629
+1142,2025-11-19,20,Male,Abuja,Beauty,Google Ads,3258,29253,No,Mobile,Bank Transfer,18749
+1143,2025-11-20,23,Female,Port Harcourt,Beauty,Facebook Ads,6996,21691,No,Mobile,Bank Transfer,12503
+1144,2025-11-21,25,Female,Abuja,Groceries,Facebook Ads,2817,24800,No,Mobile,COD,17309
+1145,2025-11-22,44,Female,Abuja,Home Appliances,WhatsApp Referrals,444,9820,No,Desktop,Card,3531
+1146,2025-11-23,26,Male,Kano,Home Appliances,Facebook Ads,3641,16001,No,Mobile,Card,7783
+1147,2025-11-24,54,Male,Enugu,Home Appliances,WhatsApp Referrals,4458,18907,No,Mobile,Bank Transfer,12358
+1148,2025-11-25,50,Female,Ibadan,Electronics,Google Ads,6266,24942,Yes,Mobile,Bank Transfer,12442
+1149,2025-11-26,41,Male,Ibadan,Beauty,Facebook Ads,5307,25862,Yes,Mobile,Card,18075
+1150,2025-11-27,32,Male,Port Harcourt,Home Appliances,Facebook Ads,741,16669,No,Mobile,Bank Transfer,8476
+1151,2025-11-28,49,Male,Port Harcourt,Home Appliances,Facebook Ads,2041,27915,No,Mobile,Card,20958
+1152,2025-11-29,49,Female,Ibadan,Electronics,WhatsApp Referrals,679,26004,Yes,Desktop,Card,18890
+1153,2025-11-30,41,Female,Enugu,Electronics,Instagram Ads,2467,20916,Yes,Mobile,Card,15374
+1154,2025-12-01,29,Male,Ibadan,Home Appliances,Instagram Ads,3697,15878,Yes,Mobile,Card,7668
+1155,2025-12-02,19,Female,Enugu,Fashion,Instagram Ads,5738,7985,No,Mobile,Card,-551
+1156,2025-12-03,20,Male,Port Harcourt,Home Appliances,Facebook Ads,5668,13112,No,Mobile,Bank Transfer,874
+1157,2025-12-04,54,Male,Lagos,Home Appliances,Instagram Ads,1358,13467,No,Desktop,Bank Transfer,4551
+1158,2025-12-05,34,Male,Kano,Electronics,Facebook Ads,6235,23931,No,Desktop,COD,11747
+1159,2025-12-06,19,Male,Port Harcourt,Electronics,Organic,62,5336,No,Desktop,Card,2670
+1160,2025-12-07,19,Female,Port Harcourt,Home Appliances,Instagram Ads,2559,15165,Yes,Mobile,Card,7627
+1161,2025-12-08,45,Female,Abuja,Home Appliances,Instagram Ads,5258,24363,Yes,Mobile,Card,12189
+1162,2025-12-09,40,Female,Abuja,Home Appliances,Instagram Ads,3769,17768,Yes,Mobile,Card,11402
+1163,2025-12-10,54,Male,Abuja,Electronics,Instagram Ads,5324,8968,No,Mobile,Bank Transfer,112
+1164,2025-12-11,49,Male,Kano,Home Appliances,WhatsApp Referrals,6915,5910,No,Desktop,Bank Transfer,-3518
+1165,2025-12-12,50,Male,Abuja,Home Appliances,Google Ads,4351,23380,Yes,Desktop,Bank Transfer,11407
+1166,2025-12-13,18,Female,Enugu,Groceries,Facebook Ads,134,20632,No,Desktop,Card,16621
+1167,2025-12-14,36,Male,Ibadan,Fashion,Google Ads,3644,21279,No,Desktop,Card,11663
+1168,2025-12-15,19,Female,Lagos,Beauty,Facebook Ads,4970,8129,No,Desktop,Card,-2684
+1169,2025-12-16,43,Female,Port Harcourt,Fashion,Facebook Ads,4917,10447,Yes,Mobile,Card,1831
+1170,2025-12-17,49,Female,Enugu,Groceries,WhatsApp Referrals,2135,11129,No,Mobile,Bank Transfer,5965
+1171,2025-12-18,23,Female,Lagos,Beauty,Organic,3278,10850,No,Mobile,COD,977
+1172,2025-12-19,49,Female,Enugu,Home Appliances,WhatsApp Referrals,822,25588,Yes,Mobile,Card,16986
+1173,2025-12-20,21,Female,Enugu,Groceries,Instagram Ads,3074,12446,No,Mobile,Bank Transfer,6656
+1174,2025-12-21,28,Male,Port Harcourt,Home Appliances,Google Ads,5069,16949,Yes,Mobile,Bank Transfer,4643
+1175,2025-12-22,34,Male,Ibadan,Electronics,Facebook Ads,2981,13519,No,Desktop,Card,2934
+1176,2025-12-23,41,Female,Abuja,Groceries,Facebook Ads,5873,5314,No,Mobile,Bank Transfer,-6645
+1177,2025-12-24,22,Female,Kano,Electronics,Organic,120,16737,No,Desktop,Card,13952
+1178,2025-12-25,51,Male,Ibadan,Groceries,Instagram Ads,1637,6134,No,Desktop,Card,289
+1179,2025-12-26,23,Female,Kano,Groceries,Organic,5460,15938,No,Mobile,Bank Transfer,7399
+1180,2025-12-27,39,Female,Port Harcourt,Electronics,Organic,5103,26260,No,Mobile,COD,18930
+1181,2025-12-28,28,Male,Port Harcourt,Beauty,Facebook Ads,924,29486,No,Mobile,Card,26414
+1182,2025-12-29,33,Female,Port Harcourt,Fashion,Google Ads,644,20588,No,Desktop,Card,16875
+1183,2025-12-30,50,Female,Lagos,Home Appliances,Google Ads,2032,13347,No,Desktop,COD,4052
+1184,2025-12-31,26,Female,Kano,Groceries,Facebook Ads,2761,10592,No,Desktop,COD,1104
+1185,2026-01-01,23,Male,Ibadan,Home Appliances,Organic,2068,23108,No,Mobile,Bank Transfer,17677
+1186,2026-01-02,33,Male,Ibadan,Electronics,Google Ads,241,24727,No,Mobile,Card,17978
+1187,2026-01-03,46,Male,Enugu,Home Appliances,Facebook Ads,6598,22270,No,Mobile,COD,11917
+1188,2026-01-04,20,Female,Enugu,Electronics,Google Ads,2668,15997,No,Desktop,Card,10810
+1189,2026-01-05,37,Female,Enugu,Home Appliances,WhatsApp Referrals,6446,5721,No,Mobile,Bank Transfer,-8188
+1190,2026-01-06,53,Male,Port Harcourt,Fashion,Facebook Ads,5715,29062,No,Mobile,Card,17803
+1191,2026-01-07,36,Female,Ibadan,Fashion,Organic,802,14104,No,Mobile,Bank Transfer,8980
+1192,2026-01-08,43,Female,Kano,Fashion,Facebook Ads,5059,24741,No,Mobile,Card,16580
+1193,2026-01-09,20,Female,Port Harcourt,Fashion,Organic,4164,5870,No,Mobile,Card,-891
+1194,2026-01-10,36,Female,Lagos,Fashion,Organic,5248,11751,No,Mobile,Card,-1252
+1195,2026-01-11,37,Female,Enugu,Fashion,Instagram Ads,195,21881,No,Mobile,Card,16413
+1196,2026-01-12,49,Male,Port Harcourt,Electronics,Instagram Ads,2187,6756,No,Mobile,Bank Transfer,-1480
+1197,2026-01-13,24,Female,Port Harcourt,Groceries,Organic,3515,6117,No,Desktop,COD,-5179
+1198,2026-01-14,50,Male,Lagos,Home Appliances,Instagram Ads,2330,16601,No,Desktop,COD,9666
+1199,2026-01-15,35,Female,Abuja,Fashion,Organic,2359,7828,No,Mobile,Card,1281
+1200,2026-01-16,18,Male,Ibadan,Electronics,Facebook Ads,4841,19996,Yes,Desktop,Bank Transfer,8330
+1201,2026-01-17,28,Female,Kano,Electronics,Organic,3606,23031,Yes,Mobile,Bank Transfer,16837
+1202,2026-01-18,45,Male,Abuja,Electronics,Organic,5784,18878,Yes,Mobile,Card,6622
+1203,2026-01-19,42,Female,Enugu,Groceries,WhatsApp Referrals,276,11992,No,Desktop,Card,8309
+1204,2026-01-20,40,Male,Port Harcourt,Home Appliances,Facebook Ads,60,18778,Yes,Desktop,Bank Transfer,10753
+1205,2026-01-21,48,Female,Lagos,Groceries,Google Ads,3390,11771,Yes,Desktop,COD,1535
+1206,2026-01-22,47,Male,Lagos,Beauty,Google Ads,1913,21526,No,Mobile,Bank Transfer,12891
+1207,2026-01-23,52,Female,Ibadan,Electronics,Instagram Ads,6195,24145,No,Mobile,Card,12560
+1208,2026-01-24,24,Male,Abuja,Beauty,Instagram Ads,3927,8435,No,Desktop,Bank Transfer,-932
+1209,2026-01-25,33,Male,Ibadan,Fashion,Facebook Ads,6296,11622,No,Mobile,Card,1697
+1210,2026-01-26,43,Female,Port Harcourt,Fashion,Organic,5868,17852,Yes,Mobile,Bank Transfer,8990
+1211,2026-01-27,19,Female,Ibadan,Groceries,Google Ads,5430,19806,No,Desktop,Bank Transfer,6697
+1212,2026-01-28,18,Male,Kano,Home Appliances,Facebook Ads,5933,15623,No,Desktop,Card,2892
+1213,2026-01-29,29,Female,Lagos,Beauty,Google Ads,2591,28453,No,Desktop,COD,21803
+1214,2026-01-30,22,Male,Lagos,Home Appliances,Instagram Ads,566,25896,No,Mobile,Card,18055
+1215,2026-01-31,54,Male,Enugu,Groceries,Facebook Ads,3935,6848,No,Desktop,COD,-3659
+1216,2026-02-01,49,Male,Enugu,Fashion,WhatsApp Referrals,1571,7696,No,Mobile,Card,1139
+1217,2026-02-02,26,Female,Port Harcourt,Home Appliances,WhatsApp Referrals,4717,6717,No,Mobile,Card,-400
+1218,2026-02-03,52,Male,Kano,Home Appliances,Google Ads,6121,24456,Yes,Mobile,Card,13480
+1219,2026-02-04,36,Male,Abuja,Fashion,Facebook Ads,1200,14259,Yes,Mobile,Card,8835
+1220,2026-02-05,33,Female,Ibadan,Beauty,Organic,4409,7786,Yes,Mobile,Card,-2035
+1221,2026-02-06,20,Female,Port Harcourt,Fashion,Instagram Ads,2854,19154,Yes,Mobile,Bank Transfer,14244
+1222,2026-02-07,37,Female,Enugu,Home Appliances,Instagram Ads,2895,18409,No,Mobile,Bank Transfer,11639
+1223,2026-02-08,41,Female,Ibadan,Beauty,Instagram Ads,6240,8791,Yes,Mobile,Bank Transfer,-3992
+1224,2026-02-09,50,Male,Enugu,Beauty,Google Ads,1236,8871,No,Mobile,Card,1337
+1225,2026-02-10,41,Male,Ibadan,Fashion,Google Ads,6972,6806,Yes,Mobile,Bank Transfer,-5934
+1226,2026-02-11,28,Male,Abuja,Home Appliances,Instagram Ads,136,22888,Yes,Mobile,Card,15000
+1227,2026-02-12,25,Male,Port Harcourt,Groceries,Google Ads,1029,24692,No,Desktop,Bank Transfer,16830
+1228,2026-02-13,53,Female,Ibadan,Home Appliances,WhatsApp Referrals,2156,28501,Yes,Desktop,Card,20048
+1229,2026-02-14,37,Male,Kano,Electronics,Instagram Ads,2594,18304,No,Mobile,COD,12357
+1230,2026-02-15,52,Male,Lagos,Groceries,Organic,661,26432,No,Desktop,Bank Transfer,21361
+1231,2026-02-16,42,Female,Kano,Beauty,Organic,2472,29647,Yes,Mobile,Bank Transfer,20188
+1232,2026-02-17,52,Male,Kano,Groceries,Instagram Ads,2677,23074,Yes,Mobile,Card,14086
+1233,2026-02-18,42,Male,Lagos,Beauty,Instagram Ads,2308,20549,No,Desktop,Card,13639
+1234,2026-02-19,46,Male,Kano,Beauty,Google Ads,86,8303,Yes,Mobile,Card,3283
+1235,2026-02-20,35,Male,Ibadan,Groceries,Google Ads,2512,24497,Yes,Desktop,COD,19963
+1236,2026-02-21,35,Male,Ibadan,Beauty,Organic,6219,21061,Yes,Mobile,COD,10640
+1237,2026-02-22,19,Male,Ibadan,Beauty,Instagram Ads,6614,29234,Yes,Desktop,Card,19411
+1238,2026-02-23,52,Female,Lagos,Electronics,WhatsApp Referrals,6557,20198,No,Mobile,Bank Transfer,9345
+1239,2026-02-24,33,Female,Kano,Home Appliances,Facebook Ads,6968,27800,No,Mobile,Bank Transfer,18084
+1240,2026-02-25,53,Male,Lagos,Home Appliances,Facebook Ads,2942,22888,No,Mobile,Bank Transfer,17142
+1241,2026-02-26,50,Male,Ibadan,Electronics,Google Ads,2773,15655,Yes,Desktop,Card,10749
+1242,2026-02-27,21,Female,Kano,Groceries,Instagram Ads,2504,13924,Yes,Mobile,Card,5004
+1243,2026-02-28,50,Male,Kano,Fashion,Facebook Ads,5404,14940,No,Desktop,Card,5099
+1244,2026-03-01,31,Male,Enugu,Fashion,Instagram Ads,3310,8924,No,Mobile,COD,3181
+1245,2026-03-02,38,Male,Enugu,Fashion,Instagram Ads,1700,29999,No,Mobile,Card,21158
+1246,2026-03-03,37,Female,Abuja,Electronics,Facebook Ads,3670,14783,No,Mobile,Card,4145
+1247,2026-03-04,25,Male,Port Harcourt,Electronics,WhatsApp Referrals,2700,9485,No,Mobile,COD,1114
+1248,2026-03-05,24,Female,Enugu,Beauty,Facebook Ads,6815,17629,No,Desktop,Bank Transfer,5078
+1249,2026-03-06,20,Male,Lagos,Fashion,Organic,3629,18233,No,Mobile,COD,8565
+1250,2026-03-07,34,Female,Enugu,Groceries,Organic,4590,17901,No,Mobile,Card,9213
+1251,2026-03-08,50,Female,Abuja,Groceries,WhatsApp Referrals,1647,29484,No,Mobile,Card,22920
+1252,2026-03-09,29,Male,Kano,Fashion,Facebook Ads,6038,5191,Yes,Mobile,COD,-3099
+1253,2026-03-10,39,Female,Abuja,Fashion,Organic,5164,9917,No,Desktop,Card,-2308
+1254,2026-03-11,39,Male,Kano,Fashion,Google Ads,5520,10831,No,Mobile,Card,-1523
+1255,2026-03-12,47,Female,Kano,Electronics,Google Ads,3318,15160,No,Mobile,Card,8713
+1256,2026-03-13,25,Male,Port Harcourt,Electronics,Google Ads,3687,25706,No,Desktop,Card,16755
+1257,2026-03-14,44,Male,Enugu,Electronics,Organic,596,18682,No,Desktop,Card,10651
+1258,2026-03-15,44,Female,Lagos,Home Appliances,Instagram Ads,4545,28383,Yes,Mobile,COD,21537
+1259,2026-03-16,51,Male,Lagos,Groceries,Organic,484,28666,No,Mobile,COD,24205
+1260,2026-03-17,38,Male,Ibadan,Groceries,Google Ads,645,17391,No,Mobile,COD,11983
+1261,2026-03-18,47,Female,Kano,Beauty,Organic,6763,6874,No,Mobile,Card,-5894
+1262,2026-03-19,50,Male,Lagos,Electronics,WhatsApp Referrals,3089,14062,No,Desktop,Card,5732
+1263,2026-03-20,45,Male,Port Harcourt,Home Appliances,Facebook Ads,5725,9763,No,Mobile,Card,-1019
+1264,2026-03-21,50,Female,Kano,Home Appliances,WhatsApp Referrals,4757,15234,No,Mobile,COD,7927
+1265,2026-03-22,22,Female,Port Harcourt,Groceries,Facebook Ads,4853,29848,No,Mobile,Card,17421
+1266,2026-03-23,36,Male,Lagos,Electronics,Facebook Ads,4384,14221,No,Mobile,Bank Transfer,2426
+1267,2026-03-24,21,Male,Lagos,Beauty,Facebook Ads,720,16410,No,Mobile,Bank Transfer,12103
+1268,2026-03-25,52,Female,Ibadan,Electronics,Instagram Ads,4733,19519,No,Mobile,Card,10964
+1269,2026-03-26,34,Female,Lagos,Fashion,Google Ads,6378,6051,Yes,Mobile,Card,-8247
+1270,2026-03-27,45,Male,Kano,Electronics,Facebook Ads,6559,17225,No,Mobile,COD,3406
+1271,2026-03-28,47,Female,Kano,Fashion,Facebook Ads,498,14765,Yes,Mobile,COD,9050
+1272,2026-03-29,46,Male,Kano,Fashion,WhatsApp Referrals,4729,16382,No,Mobile,Card,6157
+1273,2026-03-30,23,Male,Ibadan,Beauty,Organic,1673,17580,No,Mobile,Card,9498
+1274,2026-03-31,52,Male,Ibadan,Groceries,Organic,6126,28922,No,Mobile,COD,16517
+1275,2026-04-01,54,Male,Lagos,Electronics,Organic,3067,28795,No,Mobile,Card,17945
+1276,2026-04-02,41,Male,Abuja,Fashion,Organic,114,16989,Yes,Mobile,Card,14163
+1277,2026-04-03,46,Female,Abuja,Electronics,Facebook Ads,2979,27704,Yes,Mobile,Card,20550
+1278,2026-04-04,48,Female,Ibadan,Groceries,Instagram Ads,4769,16939,No,Mobile,Bank Transfer,4764
+1279,2026-04-05,52,Female,Lagos,Groceries,Organic,1736,23489,No,Desktop,Card,15681
+1280,2026-04-06,50,Female,Abuja,Home Appliances,Instagram Ads,5353,5307,No,Desktop,Card,-5895
+1281,2026-04-07,38,Male,Lagos,Groceries,Google Ads,3611,29121,Yes,Desktop,Card,21077
+1282,2026-04-08,49,Male,Lagos,Beauty,Facebook Ads,2253,8359,Yes,Mobile,Bank Transfer,805
+1283,2026-04-09,40,Male,Lagos,Fashion,Instagram Ads,2294,8176,Yes,Desktop,COD,3612
+1284,2026-04-10,50,Male,Enugu,Home Appliances,Google Ads,3630,6251,Yes,Mobile,COD,-1173
+1285,2026-04-11,20,Female,Kano,Beauty,Google Ads,6901,10366,No,Mobile,COD,-3441
+1286,2026-04-12,35,Male,Lagos,Electronics,Google Ads,146,22901,No,Mobile,Bank Transfer,18293
+1287,2026-04-13,42,Male,Enugu,Fashion,Google Ads,6261,11226,No,Desktop,Card,-1328
+1288,2026-04-14,48,Female,Ibadan,Groceries,Facebook Ads,3982,26689,No,Mobile,Card,17313
+1289,2026-04-15,20,Female,Abuja,Fashion,Facebook Ads,3453,27253,Yes,Mobile,COD,20721
+1290,2026-04-16,41,Female,Kano,Electronics,Organic,4507,29423,No,Desktop,Card,20038
+1291,2026-04-17,49,Female,Abuja,Home Appliances,Google Ads,5783,19330,Yes,Desktop,Card,6225
+1292,2026-04-18,39,Male,Kano,Home Appliances,Facebook Ads,2410,9891,Yes,Mobile,Bank Transfer,-259
+1293,2026-04-19,40,Male,Abuja,Home Appliances,Organic,5628,9992,No,Mobile,Card,-2359
+1294,2026-04-20,19,Female,Kano,Groceries,Facebook Ads,136,6961,Yes,Mobile,Card,4222
+1295,2026-04-21,44,Male,Abuja,Beauty,Instagram Ads,3360,17497,Yes,Desktop,COD,6880
+1296,2026-04-22,19,Male,Abuja,Beauty,Facebook Ads,3005,24247,No,Mobile,COD,13701
+1297,2026-04-23,43,Male,Abuja,Fashion,Organic,3552,15848,No,Mobile,Card,5120
+1298,2026-04-24,34,Female,Abuja,Groceries,Google Ads,18,27987,No,Desktop,COD,24384
+1299,2026-04-25,50,Male,Ibadan,Home Appliances,Facebook Ads,2242,18255,Yes,Mobile,Bank Transfer,10956
+1300,2026-04-26,26,Female,Lagos,Home Appliances,Organic,6473,9567,Yes,Mobile,Bank Transfer,-3912
+1301,2026-04-27,46,Male,Port Harcourt,Electronics,Instagram Ads,6055,21079,No,Mobile,Card,9039
+1302,2026-04-28,43,Male,Enugu,Electronics,Instagram Ads,6318,11513,Yes,Mobile,Card,-1494
+1303,2026-04-29,52,Male,Port Harcourt,Home Appliances,Facebook Ads,5097,20235,No,Mobile,Bank Transfer,11743
+1304,2026-04-30,42,Female,Port Harcourt,Home Appliances,Instagram Ads,448,25389,Yes,Mobile,COD,19253
+1305,2026-05-01,41,Male,Kano,Groceries,Facebook Ads,1948,16755,No,Mobile,Bank Transfer,12208
+1306,2026-05-02,30,Female,Lagos,Beauty,Google Ads,945,16151,Yes,Mobile,Card,12693
+1307,2026-05-03,24,Female,Kano,Electronics,Organic,5473,21567,No,Mobile,Card,8103
+1308,2026-05-04,53,Female,Lagos,Beauty,Google Ads,5618,29139,No,Desktop,COD,20455
+1309,2026-05-05,37,Male,Lagos,Groceries,Facebook Ads,4236,8358,No,Desktop,Card,-764
+1310,2026-05-06,18,Male,Abuja,Home Appliances,Facebook Ads,6901,27999,Yes,Mobile,Bank Transfer,16445
+1311,2026-05-07,25,Male,Ibadan,Beauty,Facebook Ads,1920,14590,No,Mobile,Card,5765
+1312,2026-05-08,33,Male,Abuja,Home Appliances,Instagram Ads,2977,28181,No,Mobile,Card,22116
+1313,2026-05-09,31,Female,Ibadan,Home Appliances,Organic,4188,15988,No,Desktop,Bank Transfer,5415
+1314,2026-05-10,29,Female,Kano,Fashion,Facebook Ads,4015,12678,No,Mobile,Bank Transfer,1799
+1315,2026-05-11,40,Female,Ibadan,Beauty,Organic,238,10698,Yes,Desktop,Card,5946
+1316,2026-05-12,32,Male,Kano,Beauty,Organic,204,6273,Yes,Mobile,Card,100
+1317,2026-05-13,45,Female,Port Harcourt,Home Appliances,Instagram Ads,2607,28037,No,Desktop,COD,20146
+1318,2026-05-14,51,Male,Port Harcourt,Groceries,Organic,5552,16241,Yes,Desktop,Card,4123
+1319,2026-05-15,19,Female,Ibadan,Fashion,Google Ads,4340,22480,No,Desktop,Bank Transfer,13944
+1320,2026-05-16,49,Male,Ibadan,Home Appliances,Google Ads,4927,14497,No,Mobile,COD,3387
+1321,2026-05-17,40,Male,Kano,Electronics,Google Ads,3388,14107,No,Mobile,Card,7930
+1322,2026-05-18,39,Female,Abuja,Electronics,Instagram Ads,2972,16273,No,Mobile,COD,7826
+1323,2026-05-19,42,Female,Kano,Fashion,Facebook Ads,4390,13002,No,Mobile,Card,3459
+1324,2026-05-20,39,Female,Abuja,Groceries,Instagram Ads,2687,9247,Yes,Mobile,Bank Transfer,2896
+1325,2026-05-21,39,Female,Port Harcourt,Home Appliances,Instagram Ads,4951,14220,Yes,Mobile,Card,5960
+1326,2026-05-22,23,Male,Lagos,Beauty,Google Ads,6160,26698,No,Mobile,COD,17674
+1327,2026-05-23,32,Female,Ibadan,Fashion,Facebook Ads,4166,24738,Yes,Mobile,Card,14709
+1328,2026-05-24,54,Female,Abuja,Groceries,WhatsApp Referrals,5388,15703,Yes,Mobile,Card,2926
+1329,2026-05-25,50,Female,Kano,Beauty,Organic,1348,20472,No,Mobile,COD,13761
+1330,2026-05-26,25,Male,Port Harcourt,Electronics,Instagram Ads,4400,21654,No,Desktop,Bank Transfer,11730
+1331,2026-05-27,22,Male,Abuja,Electronics,Facebook Ads,5126,22570,No,Mobile,Bank Transfer,11658
+1332,2026-05-28,21,Female,Kano,Beauty,Organic,5433,17392,Yes,Mobile,Card,9936
+1333,2026-05-29,23,Male,Ibadan,Fashion,Organic,816,16956,Yes,Mobile,Bank Transfer,11137
+1334,2026-05-30,49,Female,Ibadan,Electronics,Organic,5222,20641,Yes,Desktop,Card,7437
+1335,2026-05-31,47,Male,Enugu,Home Appliances,Instagram Ads,820,18998,No,Mobile,Card,15868
+1336,2026-06-01,52,Male,Lagos,Beauty,Instagram Ads,192,11305,No,Mobile,Bank Transfer,3533
+1337,2026-06-02,33,Male,Enugu,Beauty,Facebook Ads,1776,23782,No,Mobile,Card,18775
+1338,2026-06-03,30,Male,Port Harcourt,Electronics,Facebook Ads,3645,17721,No,Mobile,COD,8288
+1339,2026-06-04,47,Female,Abuja,Fashion,Organic,4624,11995,No,Mobile,COD,2660
+1340,2026-06-05,36,Female,Port Harcourt,Home Appliances,Organic,6314,17427,No,Desktop,Bank Transfer,4312
+1341,2026-06-06,34,Female,Kano,Fashion,Google Ads,250,18782,No,Desktop,COD,11077
+1342,2026-06-07,36,Male,Ibadan,Groceries,Organic,1788,28683,No,Mobile,Bank Transfer,24474
+1343,2026-06-08,45,Female,Enugu,Groceries,Google Ads,6684,25566,No,Mobile,Card,15109
+1344,2026-06-09,43,Female,Enugu,Electronics,Instagram Ads,3700,7230,No,Mobile,Bank Transfer,-2038
+1345,2026-06-10,54,Female,Enugu,Electronics,Instagram Ads,6122,11511,No,Mobile,Card,2443
+1346,2026-06-11,43,Male,Port Harcourt,Electronics,WhatsApp Referrals,2463,21512,No,Mobile,Card,15863
+1347,2026-06-12,40,Male,Ibadan,Groceries,Facebook Ads,6937,14461,No,Mobile,COD,3690
+1348,2026-06-13,26,Male,Abuja,Fashion,WhatsApp Referrals,5499,25056,No,Desktop,Bank Transfer,15993
+1349,2026-06-14,29,Female,Kano,Fashion,Organic,1167,9765,No,Desktop,COD,1654
+1350,2026-06-15,18,Female,Abuja,Electronics,Facebook Ads,6168,25354,Yes,Mobile,Card,11501
+1351,2026-06-16,18,Female,Port Harcourt,Home Appliances,Google Ads,3893,28929,Yes,Mobile,Bank Transfer,17622
+1352,2026-06-17,51,Male,Kano,Fashion,Organic,6811,18272,No,Mobile,Card,7514
+1353,2026-06-18,49,Male,Enugu,Groceries,Google Ads,1096,10552,No,Mobile,Bank Transfer,6148
+1354,2026-06-19,42,Female,Lagos,Beauty,WhatsApp Referrals,2679,5627,Yes,Mobile,Bank Transfer,-2038
+1355,2026-06-20,18,Male,Port Harcourt,Beauty,WhatsApp Referrals,1847,16989,No,Mobile,Bank Transfer,12756
+1356,2026-06-21,33,Male,Port Harcourt,Beauty,Instagram Ads,3904,18780,Yes,Desktop,Card,11715
+1357,2026-06-22,22,Male,Ibadan,Home Appliances,Instagram Ads,504,11589,Yes,Desktop,Card,5827
+1358,2026-06-23,39,Male,Abuja,Electronics,WhatsApp Referrals,1621,7044,No,Mobile,Card,-1388
+1359,2026-06-24,46,Female,Port Harcourt,Groceries,Google Ads,6479,18171,Yes,Mobile,Bank Transfer,5759
+1360,2026-06-25,20,Male,Port Harcourt,Home Appliances,Facebook Ads,2472,23725,Yes,Mobile,COD,16406
+1361,2026-06-26,29,Male,Enugu,Groceries,Facebook Ads,2546,10884,No,Mobile,Card,1817
+1362,2026-06-27,43,Male,Enugu,Groceries,Google Ads,1387,13185,No,Mobile,Bank Transfer,8359
+1363,2026-06-28,33,Male,Kano,Electronics,WhatsApp Referrals,2994,5249,No,Mobile,COD,-3187
+1364,2026-06-29,54,Female,Lagos,Beauty,Organic,6773,24309,No,Mobile,Bank Transfer,11056
+1365,2026-06-30,39,Female,Ibadan,Electronics,Google Ads,3816,26427,No,Mobile,Bank Transfer,20556
+1366,2026-07-01,46,Male,Lagos,Home Appliances,Facebook Ads,5318,22358,Yes,Desktop,COD,11716
+1367,2026-07-02,31,Male,Kano,Home Appliances,Instagram Ads,717,28576,No,Mobile,Card,25754
+1368,2026-07-03,45,Male,Enugu,Home Appliances,Organic,3484,14175,Yes,Mobile,Card,5490
+1369,2026-07-04,22,Male,Abuja,Electronics,Facebook Ads,4434,21260,No,Mobile,Card,14157
+1370,2026-07-05,47,Male,Enugu,Groceries,Instagram Ads,658,7672,No,Mobile,COD,543
+1371,2026-07-06,22,Male,Ibadan,Groceries,Facebook Ads,5057,12279,No,Mobile,COD,4480
+1372,2026-07-07,29,Female,Enugu,Fashion,Google Ads,4008,28915,Yes,Desktop,Bank Transfer,21941
+1373,2026-07-08,33,Male,Ibadan,Home Appliances,WhatsApp Referrals,4524,13662,No,Desktop,Card,6831
+1374,2026-07-09,43,Female,Ibadan,Groceries,Instagram Ads,4994,6987,Yes,Mobile,Card,-2145
+1375,2026-07-10,43,Female,Ibadan,Fashion,Instagram Ads,4234,21474,Yes,Mobile,Card,11776
+1376,2026-07-11,38,Male,Kano,Groceries,Google Ads,3764,17948,No,Mobile,Card,7287
+1377,2026-07-12,53,Female,Ibadan,Home Appliances,WhatsApp Referrals,2989,25443,Yes,Mobile,Bank Transfer,20345
+1378,2026-07-13,50,Female,Ibadan,Beauty,Facebook Ads,4637,18026,No,Desktop,COD,7757
+1379,2026-07-14,47,Female,Abuja,Home Appliances,Instagram Ads,2104,7773,Yes,Mobile,COD,-2091
+1380,2026-07-15,54,Female,Lagos,Electronics,Instagram Ads,1255,18159,No,Mobile,Bank Transfer,10469
+1381,2026-07-16,40,Female,Port Harcourt,Groceries,Organic,6801,14878,No,Mobile,Card,393
+1382,2026-07-17,27,Female,Lagos,Groceries,Instagram Ads,2482,29767,No,Mobile,Card,20211
+1383,2026-07-18,22,Male,Ibadan,Electronics,Facebook Ads,383,15178,No,Desktop,Card,10880
+1384,2026-07-19,53,Female,Abuja,Electronics,Google Ads,2607,28793,No,Mobile,Bank Transfer,19923
+1385,2026-07-20,51,Female,Enugu,Beauty,Organic,193,15377,No,Desktop,COD,12628
+1386,2026-07-21,48,Female,Abuja,Groceries,Facebook Ads,3807,25824,No,Mobile,Card,15017
+1387,2026-07-22,27,Male,Ibadan,Groceries,Organic,3719,12347,No,Desktop,Card,6524
+1388,2026-07-23,36,Female,Abuja,Beauty,Facebook Ads,2581,6008,No,Mobile,Card,-620
+1389,2026-07-24,49,Male,Abuja,Fashion,Google Ads,2565,8783,No,Mobile,Card,4073
+1390,2026-07-25,18,Female,Ibadan,Beauty,Instagram Ads,2763,28030,No,Desktop,Card,20504
+1391,2026-07-26,22,Male,Kano,Home Appliances,Organic,2798,9298,No,Mobile,Card,3627
+1392,2026-07-27,21,Male,Abuja,Groceries,Instagram Ads,6328,9668,No,Mobile,Card,1042
+1393,2026-07-28,33,Female,Port Harcourt,Electronics,Organic,5991,25671,No,Mobile,COD,14442
+1394,2026-07-29,41,Female,Port Harcourt,Home Appliances,Organic,2339,7052,Yes,Desktop,Bank Transfer,-3119
+1395,2026-07-30,33,Male,Abuja,Groceries,Google Ads,3406,27393,Yes,Mobile,Card,21342
+1396,2026-07-31,19,Female,Kano,Beauty,Organic,731,6716,No,Desktop,Card,-748
+1397,2026-08-01,45,Male,Enugu,Home Appliances,Organic,6259,5310,Yes,Mobile,Card,-6027
+1398,2026-08-02,49,Male,Ibadan,Groceries,Facebook Ads,2872,19391,No,Mobile,Card,12008
+1399,2026-08-03,44,Male,Port Harcourt,Fashion,Instagram Ads,3120,25922,No,Desktop,Card,20019
+1400,2026-08-04,37,Male,Enugu,Fashion,WhatsApp Referrals,4780,6260,No,Mobile,Bank Transfer,-5512
+1401,2026-08-05,41,Male,Abuja,Electronics,Facebook Ads,4177,18157,Yes,Desktop,Bank Transfer,11610
+1402,2026-08-06,29,Female,Enugu,Groceries,Organic,6977,25316,Yes,Desktop,Bank Transfer,15853
+1403,2026-08-07,52,Male,Lagos,Fashion,WhatsApp Referrals,6476,16460,No,Mobile,Card,5947
+1404,2026-08-08,50,Male,Port Harcourt,Beauty,Facebook Ads,2604,21968,No,Mobile,COD,14168
+1405,2026-08-09,50,Female,Abuja,Groceries,Google Ads,2382,29000,No,Mobile,Card,23258
+1406,2026-08-10,54,Male,Ibadan,Beauty,Instagram Ads,531,29935,No,Desktop,Card,23117
+1407,2026-08-11,29,Female,Kano,Beauty,Google Ads,6079,19011,No,Desktop,Bank Transfer,6107
+1408,2026-08-12,20,Female,Abuja,Fashion,Facebook Ads,4316,7866,No,Mobile,Bank Transfer,-711
+1409,2026-08-13,18,Female,Ibadan,Groceries,Facebook Ads,634,19365,No,Mobile,COD,14110
+1410,2026-08-14,50,Male,Kano,Home Appliances,Google Ads,1769,10898,Yes,Mobile,Bank Transfer,6173
+1411,2026-08-15,27,Male,Kano,Fashion,Organic,3804,23395,No,Desktop,COD,17211
+1412,2026-08-16,46,Male,Abuja,Fashion,Organic,2370,11251,No,Mobile,COD,3232
+1413,2026-08-17,30,Female,Enugu,Groceries,Google Ads,5970,9939,No,Mobile,Bank Transfer,-2924
+1414,2026-08-18,29,Male,Enugu,Groceries,Facebook Ads,2,9006,Yes,Mobile,Bank Transfer,6766
+1415,2026-08-19,48,Female,Kano,Beauty,Google Ads,5813,6625,No,Desktop,Bank Transfer,-2293
+1416,2026-08-20,19,Male,Enugu,Groceries,Facebook Ads,205,15956,No,Mobile,COD,12365
+1417,2026-08-21,52,Female,Lagos,Beauty,WhatsApp Referrals,5951,22274,No,Mobile,Bank Transfer,11771
+1418,2026-08-22,40,Male,Kano,Fashion,Organic,4135,11078,Yes,Mobile,Card,2694
+1419,2026-08-23,34,Male,Kano,Electronics,Organic,6202,28420,No,Mobile,Bank Transfer,18691
+1420,2026-08-24,43,Male,Ibadan,Home Appliances,WhatsApp Referrals,2621,13923,No,Desktop,Card,7635
+1421,2026-08-25,25,Female,Enugu,Fashion,Facebook Ads,4739,8961,No,Desktop,Card,-1910
+1422,2026-08-26,46,Female,Kano,Groceries,Organic,5626,23888,No,Mobile,Card,13571
+1423,2026-08-27,43,Male,Lagos,Home Appliances,Instagram Ads,6003,13806,No,Mobile,Bank Transfer,2131
+1424,2026-08-28,27,Male,Ibadan,Electronics,WhatsApp Referrals,2890,25190,No,Mobile,COD,18304
+1425,2026-08-29,43,Female,Abuja,Electronics,Instagram Ads,3193,27484,No,Mobile,Card,20866
+1426,2026-08-30,51,Female,Kano,Beauty,Organic,2666,23103,No,Desktop,Card,15625
+1427,2026-08-31,24,Female,Lagos,Home Appliances,Organic,6239,18558,Yes,Mobile,Card,7072
+1428,2026-09-01,21,Male,Port Harcourt,Beauty,Facebook Ads,3306,11686,No,Mobile,Bank Transfer,3788
+1429,2026-09-02,28,Female,Lagos,Fashion,Instagram Ads,897,6587,Yes,Mobile,Card,2200
+1430,2026-09-03,46,Male,Lagos,Home Appliances,Organic,1085,28384,No,Mobile,Card,24075
+1431,2026-09-04,53,Female,Ibadan,Fashion,Instagram Ads,1279,14803,Yes,Mobile,Card,8937
+1432,2026-09-05,42,Male,Abuja,Beauty,Instagram Ads,6704,22280,Yes,Mobile,Card,10512
+1433,2026-09-06,38,Female,Port Harcourt,Home Appliances,Facebook Ads,6491,26942,No,Mobile,Card,17619
+1434,2026-09-07,53,Female,Enugu,Beauty,Facebook Ads,670,29853,Yes,Desktop,Bank Transfer,22491
+1435,2026-09-08,27,Female,Enugu,Home Appliances,Organic,1505,26031,No,Mobile,Card,20086
+1436,2026-09-09,54,Female,Lagos,Beauty,Google Ads,6460,15350,Yes,Mobile,Bank Transfer,2095
+1437,2026-09-10,26,Female,Ibadan,Electronics,Facebook Ads,3575,23816,No,Desktop,Card,16595
+1438,2026-09-11,41,Male,Ibadan,Beauty,Instagram Ads,4814,25288,No,Mobile,Card,18034
+1439,2026-09-12,52,Female,Enugu,Electronics,Instagram Ads,5167,16454,No,Desktop,Card,3331
+1440,2026-09-13,52,Female,Port Harcourt,Beauty,Facebook Ads,1955,20849,No,Mobile,Bank Transfer,11158
+1441,2026-09-14,53,Female,Abuja,Home Appliances,Instagram Ads,5255,11837,Yes,Mobile,COD,3053
+1442,2026-09-15,35,Male,Port Harcourt,Home Appliances,Instagram Ads,249,6449,No,Mobile,COD,1235
+1443,2026-09-16,49,Female,Kano,Home Appliances,Instagram Ads,6457,25884,Yes,Mobile,Bank Transfer,15060
+1444,2026-09-17,41,Male,Kano,Groceries,Organic,1892,10454,No,Mobile,Card,3276
+1445,2026-09-18,40,Female,Abuja,Fashion,Facebook Ads,3439,14424,No,Desktop,COD,3795
+1446,2026-09-19,49,Female,Enugu,Home Appliances,Google Ads,1853,9117,No,Mobile,Bank Transfer,601
+1447,2026-09-20,54,Male,Abuja,Electronics,Google Ads,2854,13869,Yes,Mobile,Card,4684
+1448,2026-09-21,29,Female,Ibadan,Home Appliances,Google Ads,1503,15850,No,Mobile,COD,11043
+1449,2026-09-22,30,Male,Kano,Groceries,Google Ads,3385,23412,Yes,Mobile,Card,14993
+1450,2026-09-23,40,Male,Lagos,Electronics,Google Ads,3571,19343,No,Mobile,Card,10084
+1451,2026-09-24,42,Female,Lagos,Groceries,Organic,3792,11845,No,Mobile,Card,2080
+1452,2026-09-25,52,Male,Enugu,Electronics,Google Ads,3426,25142,No,Desktop,Card,18531
+1453,2026-09-26,47,Female,Ibadan,Beauty,Google Ads,6628,27288,Yes,Desktop,Bank Transfer,15398
+1454,2026-09-27,34,Female,Port Harcourt,Fashion,Organic,5330,9624,Yes,Mobile,Card,-2834
+1455,2026-09-28,37,Male,Ibadan,Fashion,Google Ads,43,13848,No,Mobile,Card,9698
+1456,2026-09-29,42,Male,Lagos,Groceries,Instagram Ads,3612,21549,Yes,Desktop,Card,14097
+1457,2026-09-30,39,Male,Lagos,Fashion,Facebook Ads,2618,18136,Yes,Desktop,Bank Transfer,9198
+1458,2026-10-01,30,Male,Kano,Groceries,Facebook Ads,4678,25975,No,Mobile,Bank Transfer,13359
+1459,2026-10-02,36,Female,Ibadan,Groceries,Organic,3163,5589,Yes,Desktop,Card,-2321
+1460,2026-10-03,53,Female,Ibadan,Groceries,Organic,1288,25908,Yes,Mobile,Card,17943
+1461,2026-10-04,29,Male,Lagos,Fashion,WhatsApp Referrals,2942,24205,No,Desktop,Card,14999
+1462,2026-10-05,36,Female,Port Harcourt,Groceries,Google Ads,219,11509,No,Mobile,COD,6157
+1463,2026-10-06,29,Female,Enugu,Fashion,Instagram Ads,1925,12693,Yes,Mobile,Card,5348
+1464,2026-10-07,26,Female,Enugu,Groceries,Facebook Ads,2972,14454,Yes,Desktop,Card,8017
+1465,2026-10-08,24,Female,Ibadan,Home Appliances,Google Ads,3513,21455,No,Mobile,Card,11833
+1466,2026-10-09,45,Male,Enugu,Groceries,Google Ads,2448,16708,Yes,Mobile,Bank Transfer,10049
+1467,2026-10-10,31,Male,Lagos,Electronics,WhatsApp Referrals,3471,17942,No,Mobile,Bank Transfer,6932
+1468,2026-10-11,48,Female,Lagos,Groceries,Facebook Ads,2774,24964,Yes,Desktop,Card,17386
+1469,2026-10-12,36,Male,Ibadan,Beauty,Google Ads,990,29346,No,Desktop,Card,20390
+1470,2026-10-13,33,Male,Ibadan,Groceries,Google Ads,2946,21652,No,Desktop,Card,15163
+1471,2026-10-14,22,Male,Kano,Electronics,Google Ads,1812,14968,No,Mobile,COD,9467
+1472,2026-10-15,52,Female,Ibadan,Electronics,Google Ads,4953,7462,No,Desktop,COD,-1062
+1473,2026-10-16,29,Female,Port Harcourt,Fashion,Organic,803,14460,No,Mobile,Bank Transfer,6510
+1474,2026-10-17,42,Female,Enugu,Home Appliances,Facebook Ads,489,6015,Yes,Mobile,Bank Transfer,-2301
+1475,2026-10-18,38,Male,Ibadan,Groceries,Organic,3556,14275,Yes,Desktop,Card,4178
+1476,2026-10-19,53,Female,Abuja,Fashion,Google Ads,5876,18269,No,Mobile,Bank Transfer,7114
+1477,2026-10-20,40,Female,Kano,Home Appliances,Organic,1493,29368,Yes,Mobile,Bank Transfer,22334
+1478,2026-10-21,33,Male,Abuja,Groceries,Organic,3645,5406,Yes,Mobile,Card,-5050
+1479,2026-10-22,31,Female,Lagos,Beauty,Instagram Ads,2891,12384,No,Mobile,COD,4470
+1480,2026-10-23,48,Female,Enugu,Groceries,Instagram Ads,1705,27433,No,Desktop,Card,22910
+1481,2026-10-24,22,Male,Ibadan,Electronics,WhatsApp Referrals,3516,27553,No,Mobile,Card,17516
+1482,2026-10-25,52,Male,Abuja,Electronics,Google Ads,3340,29366,No,Desktop,Bank Transfer,22902
+1483,2026-10-26,40,Male,Enugu,Beauty,WhatsApp Referrals,6410,16268,No,Mobile,Bank Transfer,2198
+1484,2026-10-27,46,Female,Lagos,Fashion,Facebook Ads,53,22369,Yes,Mobile,Bank Transfer,15371
+1485,2026-10-28,28,Female,Port Harcourt,Home Appliances,Google Ads,2575,16795,No,Mobile,Card,6579
+1486,2026-10-29,35,Female,Kano,Groceries,Organic,3591,9485,Yes,Desktop,COD,2765
+1487,2026-10-30,29,Male,Enugu,Electronics,WhatsApp Referrals,615,13901,No,Mobile,Bank Transfer,9584
+1488,2026-10-31,26,Male,Enugu,Fashion,Instagram Ads,5178,7618,No,Desktop,Card,-1561
+1489,2026-11-01,27,Female,Port Harcourt,Beauty,Organic,5944,27673,No,Mobile,COD,15851
+1490,2026-11-02,34,Female,Enugu,Electronics,Google Ads,954,14603,No,Mobile,Bank Transfer,7277
+1491,2026-11-03,24,Male,Lagos,Beauty,Facebook Ads,2433,11928,Yes,Mobile,Card,5689
+1492,2026-11-04,30,Male,Lagos,Groceries,Google Ads,1629,10368,No,Desktop,Bank Transfer,3792
+1493,2026-11-05,26,Male,Port Harcourt,Home Appliances,Google Ads,2781,9621,No,Desktop,Card,1631
+1494,2026-11-06,44,Male,Kano,Electronics,WhatsApp Referrals,6859,19719,No,Mobile,Card,8708
+1495,2026-11-07,19,Female,Ibadan,Electronics,Instagram Ads,649,16126,No,Mobile,Card,8836
+1496,2026-11-08,22,Male,Abuja,Groceries,Facebook Ads,2347,12566,No,Mobile,COD,4014
+1497,2026-11-09,46,Female,Ibadan,Fashion,Facebook Ads,4490,17306,Yes,Desktop,Card,10272
+1498,2026-11-10,54,Female,Enugu,Home Appliances,Instagram Ads,3278,26054,Yes,Mobile,Bank Transfer,18375
+1499,2026-11-11,36,Female,Abuja,Electronics,Instagram Ads,5455,29042,No,Desktop,Card,16749
+1500,2026-11-12,25,Male,Port Harcourt,Home Appliances,Organic,2640,20086,No,Desktop,Bank Transfer,13082
+1501,2026-11-13,18,Male,Port Harcourt,Electronics,Instagram Ads,3801,22387,No,Mobile,Bank Transfer,15297
+1502,2026-11-14,39,Male,Kano,Home Appliances,WhatsApp Referrals,2561,28888,No,Desktop,Bank Transfer,20562
+1503,2026-11-15,34,Male,Abuja,Beauty,WhatsApp Referrals,3249,23850,No,Mobile,Card,16726
+1504,2026-11-16,24,Female,Lagos,Electronics,Google Ads,6539,23323,No,Mobile,Bank Transfer,9600
+1505,2026-11-17,42,Male,Abuja,Home Appliances,WhatsApp Referrals,370,23019,No,Mobile,COD,16221
+1506,2026-11-18,21,Male,Enugu,Fashion,Organic,857,14890,Yes,Mobile,Bank Transfer,6401
+1507,2026-11-19,53,Female,Lagos,Beauty,Google Ads,4886,13095,No,Desktop,Card,957
+1508,2026-11-20,23,Male,Port Harcourt,Beauty,Facebook Ads,4753,27649,Yes,Mobile,COD,16209
+1509,2026-11-21,48,Female,Abuja,Fashion,Instagram Ads,6879,17719,Yes,Mobile,Card,8058
+1510,2026-11-22,36,Female,Ibadan,Home Appliances,Google Ads,5488,15283,No,Mobile,Bank Transfer,7256
+1511,2026-11-23,44,Female,Kano,Groceries,Organic,383,23279,No,Mobile,COD,18114
+1512,2026-11-24,27,Female,Ibadan,Fashion,Instagram Ads,6205,19231,Yes,Mobile,Card,5372
+1513,2026-11-25,43,Female,Kano,Home Appliances,Organic,3877,27908,Yes,Mobile,Card,16416
+1514,2026-11-26,36,Female,Enugu,Fashion,Google Ads,2552,19698,Yes,Mobile,Card,12478
+1515,2026-11-27,20,Female,Ibadan,Fashion,Facebook Ads,4334,22457,No,Desktop,Bank Transfer,11409
+1516,2026-11-28,30,Female,Abuja,Electronics,WhatsApp Referrals,4290,10184,Yes,Desktop,Bank Transfer,-43
+1517,2026-11-29,45,Male,Abuja,Home Appliances,Google Ads,2725,7402,Yes,Mobile,Card,-279
+1518,2026-11-30,37,Male,Ibadan,Groceries,Instagram Ads,4034,9895,No,Desktop,Card,139
+1519,2026-12-01,45,Male,Abuja,Electronics,Google Ads,3293,28715,No,Mobile,Card,19555
+1520,2026-12-02,25,Male,Enugu,Fashion,Facebook Ads,6204,16404,No,Mobile,Card,6367
+1521,2026-12-03,18,Female,Lagos,Fashion,Google Ads,5248,20161,Yes,Mobile,Card,7826
+1522,2026-12-04,20,Male,Enugu,Fashion,Instagram Ads,6828,14343,No,Mobile,COD,3369
+1523,2026-12-05,30,Female,Kano,Home Appliances,Instagram Ads,6111,15637,No,Mobile,Card,5356
+1524,2026-12-06,45,Male,Enugu,Home Appliances,WhatsApp Referrals,4251,6956,No,Desktop,COD,-2686
+1525,2026-12-07,42,Male,Kano,Electronics,Google Ads,3988,12023,No,Mobile,Bank Transfer,4419
+1526,2026-12-08,50,Male,Abuja,Groceries,Facebook Ads,922,19062,No,Desktop,Card,10526
+1527,2026-12-09,23,Female,Lagos,Electronics,Instagram Ads,2915,19333,Yes,Mobile,Bank Transfer,9801
+1528,2026-12-10,49,Male,Abuja,Beauty,WhatsApp Referrals,2950,8907,No,Desktop,Bank Transfer,3041
+1529,2026-12-11,38,Female,Port Harcourt,Fashion,Facebook Ads,5705,5807,No,Mobile,Card,-6710
+1530,2026-12-12,33,Female,Abuja,Fashion,Facebook Ads,3046,29762,No,Mobile,Card,21960
+1531,2026-12-13,38,Male,Kano,Fashion,Facebook Ads,974,19031,Yes,Mobile,Card,14121
+1532,2026-12-14,28,Male,Abuja,Electronics,Facebook Ads,1230,9827,Yes,Mobile,Card,2555
+1533,2026-12-15,54,Male,Abuja,Electronics,Organic,2435,18699,No,Mobile,Card,11173
+1534,2026-12-16,53,Female,Lagos,Fashion,Organic,1814,9524,Yes,Desktop,Card,1055
+1535,2026-12-17,52,Male,Abuja,Electronics,Instagram Ads,2934,20193,Yes,Mobile,Card,14291
+1536,2026-12-18,36,Female,Lagos,Home Appliances,Google Ads,4933,21223,No,Desktop,Card,10926
+1537,2026-12-19,37,Female,Ibadan,Home Appliances,Instagram Ads,6103,23668,No,Mobile,Card,12362
+1538,2026-12-20,35,Male,Port Harcourt,Electronics,WhatsApp Referrals,1363,10313,No,Desktop,Card,1777
+1539,2026-12-21,31,Male,Lagos,Fashion,WhatsApp Referrals,3940,18598,No,Mobile,Card,11769
+1540,2026-12-22,32,Female,Kano,Electronics,Instagram Ads,6483,18058,No,Mobile,COD,8783
+1541,2026-12-23,48,Female,Ibadan,Electronics,Organic,203,22141,Yes,Desktop,Card,16480
+1542,2026-12-24,18,Female,Lagos,Electronics,Organic,160,9887,Yes,Mobile,Bank Transfer,6746
+1543,2026-12-25,20,Male,Lagos,Beauty,Instagram Ads,4487,8854,No,Mobile,Card,-1164
+1544,2026-12-26,33,Female,Port Harcourt,Home Appliances,Facebook Ads,768,17458,No,Mobile,COD,11161
+1545,2026-12-27,40,Male,Kano,Groceries,Instagram Ads,3748,19536,No,Mobile,Card,12987
+1546,2026-12-28,28,Female,Enugu,Groceries,Organic,6718,8558,Yes,Mobile,COD,-202
+1547,2026-12-29,29,Female,Enugu,Beauty,WhatsApp Referrals,2581,14772,No,Desktop,Bank Transfer,4486
+1548,2026-12-30,27,Male,Lagos,Electronics,Organic,1093,22345,No,Mobile,Card,15903
+1549,2026-12-31,49,Female,Abuja,Beauty,Organic,4500,25231,No,Mobile,COD,16954
+1550,2027-01-01,33,Male,Kano,Beauty,Google Ads,607,28110,No,Mobile,Bank Transfer,22302
+1551,2027-01-02,25,Male,Ibadan,Fashion,Organic,5710,8575,No,Mobile,Card,516
+1552,2027-01-03,29,Female,Abuja,Home Appliances,Organic,1540,7418,No,Mobile,Bank Transfer,2311
+1553,2027-01-04,41,Male,Abuja,Groceries,Instagram Ads,2875,9198,No,Desktop,COD,3194
+1554,2027-01-05,45,Male,Kano,Electronics,Google Ads,3191,6001,Yes,Mobile,Card,-2149
+1555,2027-01-06,25,Female,Lagos,Groceries,Organic,1837,26628,No,Desktop,Card,19004
+1556,2027-01-07,45,Male,Lagos,Groceries,Facebook Ads,689,12119,No,Mobile,Bank Transfer,7650
+1557,2027-01-08,53,Male,Lagos,Home Appliances,Organic,3759,25450,Yes,Mobile,Bank Transfer,19108
+1558,2027-01-09,43,Male,Lagos,Groceries,Facebook Ads,2949,24229,No,Mobile,COD,14753
+1559,2027-01-10,25,Female,Enugu,Groceries,Google Ads,5336,14673,No,Mobile,Bank Transfer,3960
+1560,2027-01-11,45,Male,Lagos,Beauty,Organic,2103,10316,Yes,Mobile,Card,2812
+1561,2027-01-12,45,Female,Enugu,Home Appliances,Instagram Ads,365,21244,No,Mobile,COD,13435
+1562,2027-01-13,54,Female,Enugu,Fashion,Facebook Ads,5818,21806,Yes,Desktop,Card,10803
+1563,2027-01-14,53,Male,Lagos,Electronics,Instagram Ads,3575,28099,No,Mobile,Card,20330
+1564,2027-01-15,44,Male,Port Harcourt,Groceries,Organic,4550,16873,No,Desktop,Bank Transfer,5038
+1565,2027-01-16,34,Male,Ibadan,Electronics,Facebook Ads,4199,9266,No,Mobile,Bank Transfer,1905
+1566,2027-01-17,26,Female,Abuja,Fashion,WhatsApp Referrals,4172,12549,No,Desktop,Card,6079
+1567,2027-01-18,50,Male,Enugu,Electronics,Facebook Ads,4325,27700,No,Desktop,Bank Transfer,18028
+1568,2027-01-19,37,Male,Kano,Fashion,WhatsApp Referrals,6033,24094,No,Mobile,Card,14122
+1569,2027-01-20,30,Male,Kano,Beauty,WhatsApp Referrals,2378,15589,Yes,Desktop,Card,10423
+1570,2027-01-21,45,Male,Ibadan,Groceries,Instagram Ads,1205,29453,No,Mobile,COD,21303
+1571,2027-01-22,46,Male,Kano,Fashion,Google Ads,4988,6657,Yes,Desktop,Card,-3220
+1572,2027-01-23,30,Female,Port Harcourt,Electronics,Instagram Ads,3839,23925,No,Mobile,Card,16709
+1573,2027-01-24,52,Female,Kano,Groceries,Google Ads,5669,11763,No,Mobile,Card,-1179
+1574,2027-01-25,23,Male,Abuja,Beauty,Facebook Ads,2735,24459,Yes,Desktop,COD,17775
+1575,2027-01-26,35,Male,Abuja,Groceries,Facebook Ads,6170,8164,No,Mobile,Card,-3278
+1576,2027-01-27,22,Male,Enugu,Fashion,Facebook Ads,3347,23437,Yes,Mobile,Card,17213
+1577,2027-01-28,42,Male,Lagos,Beauty,Instagram Ads,1675,13479,Yes,Desktop,Bank Transfer,4570
+1578,2027-01-29,19,Female,Port Harcourt,Electronics,Instagram Ads,298,10737,No,Mobile,Card,4697
+1579,2027-01-30,27,Male,Enugu,Beauty,Google Ads,956,24601,Yes,Mobile,Card,20068
+1580,2027-01-31,47,Female,Port Harcourt,Beauty,WhatsApp Referrals,6942,22831,Yes,Mobile,Bank Transfer,10750
+1581,2027-02-01,22,Female,Lagos,Home Appliances,Instagram Ads,1114,11009,Yes,Mobile,Card,5403
+1582,2027-02-02,50,Male,Kano,Beauty,Google Ads,6623,21991,No,Desktop,COD,10613
+1583,2027-02-03,18,Female,Kano,Beauty,Instagram Ads,6716,9552,Yes,Mobile,Card,-4906
+1584,2027-02-04,35,Female,Lagos,Groceries,Organic,2505,23148,No,Mobile,Card,16740
+1585,2027-02-05,49,Female,Enugu,Electronics,WhatsApp Referrals,1474,14417,Yes,Mobile,Card,9561
+1586,2027-02-06,28,Female,Lagos,Groceries,Organic,4460,14221,No,Desktop,Card,3521
+1587,2027-02-07,38,Male,Ibadan,Groceries,WhatsApp Referrals,5794,7671,No,Mobile,Bank Transfer,-2445
+1588,2027-02-08,43,Male,Abuja,Fashion,Facebook Ads,4446,11519,Yes,Mobile,Card,2517
+1589,2027-02-09,42,Female,Enugu,Groceries,Organic,3726,8962,No,Desktop,Card,-2062
+1590,2027-02-10,39,Male,Port Harcourt,Home Appliances,Organic,3471,17734,No,Mobile,Bank Transfer,10402
+1591,2027-02-11,44,Male,Ibadan,Home Appliances,Facebook Ads,6396,18122,No,Mobile,Bank Transfer,3776
+1592,2027-02-12,30,Male,Enugu,Fashion,WhatsApp Referrals,2828,24561,No,Mobile,Card,17867
+1593,2027-02-13,50,Male,Lagos,Electronics,Facebook Ads,6000,8722,Yes,Mobile,Card,-3325
+1594,2027-02-14,51,Male,Lagos,Electronics,Google Ads,2850,9906,No,Mobile,Card,1881
+1595,2027-02-15,52,Female,Lagos,Groceries,Facebook Ads,5107,12263,No,Mobile,Card,4058
+1596,2027-02-16,18,Male,Lagos,Groceries,Instagram Ads,2506,18699,No,Desktop,Card,8946
+1597,2027-02-17,38,Male,Port Harcourt,Groceries,Organic,3770,26438,No,Mobile,Bank Transfer,18934
+1598,2027-02-18,23,Male,Ibadan,Electronics,Google Ads,2964,16088,No,Desktop,COD,6461
+1599,2027-02-19,45,Male,Kano,Beauty,Instagram Ads,4594,5808,No,Mobile,Card,-6695
+1600,2027-02-20,34,Female,Abuja,Home Appliances,Instagram Ads,949,14170,Yes,Desktop,Card,7805
+1601,2027-02-21,22,Female,Port Harcourt,Beauty,Organic,6090,21260,Yes,Desktop,Card,8544
+1602,2027-02-22,48,Female,Port Harcourt,Beauty,Facebook Ads,6142,22109,Yes,Mobile,Card,8310
+1603,2027-02-23,22,Female,Kano,Electronics,Instagram Ads,4603,15693,No,Mobile,Card,8410
+1604,2027-02-24,20,Male,Kano,Beauty,WhatsApp Referrals,5423,12701,No,Mobile,COD,3208
+1605,2027-02-25,40,Female,Abuja,Fashion,Organic,6644,22600,No,Desktop,Bank Transfer,8790
+1606,2027-02-26,54,Male,Abuja,Groceries,Instagram Ads,2850,25435,No,Desktop,COD,15761
+1607,2027-02-27,54,Male,Kano,Fashion,Organic,6741,23581,No,Mobile,COD,13111
+1608,2027-02-28,27,Male,Lagos,Home Appliances,Organic,165,19191,No,Mobile,Card,14835
+1609,2027-03-01,27,Male,Port Harcourt,Groceries,Organic,3486,24190,No,Mobile,Bank Transfer,18037
+1610,2027-03-02,36,Male,Enugu,Beauty,Google Ads,2509,22356,No,Desktop,Card,16235
+1611,2027-03-03,34,Female,Abuja,Home Appliances,Facebook Ads,919,27018,No,Mobile,Card,23419
+1612,2027-03-04,38,Female,Abuja,Groceries,Instagram Ads,113,18704,No,Mobile,COD,15619
+1613,2027-03-05,31,Female,Kano,Beauty,Instagram Ads,3504,28867,No,Mobile,Card,20517
+1614,2027-03-06,26,Female,Ibadan,Fashion,Google Ads,991,7123,No,Mobile,COD,2000
+1615,2027-03-07,18,Male,Enugu,Groceries,Facebook Ads,6047,16533,No,Desktop,Card,6023
+1616,2027-03-08,30,Female,Enugu,Beauty,Google Ads,6350,21608,No,Mobile,COD,10729
+1617,2027-03-09,21,Male,Abuja,Fashion,Instagram Ads,3839,19448,No,Mobile,COD,11106
+1618,2027-03-10,18,Female,Lagos,Home Appliances,Instagram Ads,1258,19586,Yes,Mobile,Bank Transfer,11406
+1619,2027-03-11,49,Male,Ibadan,Home Appliances,Organic,3426,6814,No,Mobile,Bank Transfer,-3004
+1620,2027-03-12,51,Male,Enugu,Home Appliances,Instagram Ads,514,18001,Yes,Mobile,Card,12304
+1621,2027-03-13,45,Female,Abuja,Home Appliances,Facebook Ads,5327,22490,No,Desktop,COD,11130
+1622,2027-03-14,48,Male,Enugu,Electronics,Organic,4804,21508,No,Desktop,COD,9355
+1623,2027-03-15,25,Male,Ibadan,Groceries,Facebook Ads,3196,24630,No,Mobile,Bank Transfer,16267
+1624,2027-03-16,43,Female,Ibadan,Groceries,Organic,6281,18380,Yes,Mobile,Bank Transfer,7102
+1625,2027-03-17,51,Male,Port Harcourt,Electronics,Organic,4434,20406,No,Desktop,Bank Transfer,10745
+1626,2027-03-18,20,Female,Kano,Beauty,Instagram Ads,2584,7931,No,Mobile,COD,1195
+1627,2027-03-19,29,Female,Kano,Beauty,Organic,67,18567,Yes,Mobile,Bank Transfer,14772
+1628,2027-03-20,18,Female,Abuja,Home Appliances,Google Ads,1596,19038,No,Desktop,COD,13418
+1629,2027-03-21,22,Male,Ibadan,Fashion,Instagram Ads,5660,17317,No,Desktop,Bank Transfer,9328
+1630,2027-03-22,47,Male,Port Harcourt,Beauty,Facebook Ads,4478,7971,No,Desktop,Card,-993
+1631,2027-03-23,47,Male,Port Harcourt,Fashion,Instagram Ads,18,7017,Yes,Desktop,Card,3844
+1632,2027-03-24,34,Female,Enugu,Groceries,WhatsApp Referrals,2730,28799,No,Desktop,Card,22179
+1633,2027-03-25,40,Male,Enugu,Fashion,Instagram Ads,3521,7415,No,Mobile,Card,-2583
+1634,2027-03-26,32,Female,Port Harcourt,Groceries,Google Ads,6217,24480,No,Mobile,Card,14078
+1635,2027-03-27,54,Female,Enugu,Electronics,Google Ads,572,6609,No,Mobile,Bank Transfer,-901
+1636,2027-03-28,38,Male,Ibadan,Electronics,Google Ads,5395,5717,Yes,Mobile,Card,-3995
+1637,2027-03-29,31,Female,Lagos,Home Appliances,Facebook Ads,2258,24945,Yes,Mobile,Card,17066
+1638,2027-03-30,19,Male,Ibadan,Beauty,Instagram Ads,2902,17662,Yes,Mobile,Bank Transfer,8269
+1639,2027-03-31,28,Male,Port Harcourt,Home Appliances,Organic,6039,11782,No,Mobile,COD,1232
+1640,2027-04-01,51,Male,Port Harcourt,Groceries,Facebook Ads,650,6048,Yes,Mobile,Bank Transfer,2949
+1641,2027-04-02,51,Male,Ibadan,Home Appliances,Facebook Ads,5741,16618,Yes,Mobile,COD,7523
+1642,2027-04-03,35,Male,Enugu,Fashion,Facebook Ads,5089,13307,No,Mobile,Bank Transfer,814
+1643,2027-04-04,47,Female,Enugu,Groceries,Instagram Ads,6838,12905,Yes,Mobile,Card,-1326
+1644,2027-04-05,32,Female,Kano,Electronics,Organic,2587,14993,Yes,Desktop,Bank Transfer,9113
+1645,2027-04-06,44,Female,Port Harcourt,Beauty,Facebook Ads,3262,15338,No,Mobile,Bank Transfer,7611
+1646,2027-04-07,51,Male,Abuja,Groceries,Facebook Ads,1338,10578,Yes,Mobile,Card,4138
+1647,2027-04-08,50,Male,Kano,Groceries,Instagram Ads,4996,18834,No,Desktop,Card,9989
+1648,2027-04-09,41,Male,Enugu,Fashion,Organic,3634,23004,No,Mobile,Bank Transfer,14195
+1649,2027-04-10,32,Female,Ibadan,Beauty,Google Ads,5780,11548,No,Mobile,Card,-513
+1650,2027-04-11,47,Male,Enugu,Electronics,Instagram Ads,2827,12381,No,Mobile,Bank Transfer,4355
+1651,2027-04-12,34,Female,Ibadan,Groceries,Organic,5681,26164,No,Mobile,Card,17250
+1652,2027-04-13,22,Female,Kano,Groceries,Google Ads,6019,25176,No,Desktop,Bank Transfer,15720
+1653,2027-04-14,46,Male,Port Harcourt,Fashion,Organic,5877,7941,No,Mobile,Bank Transfer,-3288
+1654,2027-04-15,21,Male,Enugu,Home Appliances,Organic,5232,10695,No,Mobile,Card,-567
+1655,2027-04-16,27,Female,Ibadan,Electronics,Instagram Ads,2217,11401,No,Mobile,Card,6932
+1656,2027-04-17,34,Male,Port Harcourt,Beauty,Instagram Ads,3539,20179,No,Mobile,Bank Transfer,14622
+1657,2027-04-18,27,Female,Abuja,Groceries,Facebook Ads,6040,19456,No,Mobile,COD,8657
+1658,2027-04-19,34,Male,Ibadan,Groceries,Instagram Ads,1037,18097,Yes,Mobile,COD,9805
+1659,2027-04-20,37,Male,Kano,Electronics,WhatsApp Referrals,5834,11197,Yes,Mobile,Card,3141
+1660,2027-04-21,41,Female,Abuja,Home Appliances,Instagram Ads,4383,10450,Yes,Mobile,Bank Transfer,4065
+1661,2027-04-22,22,Male,Abuja,Groceries,Facebook Ads,3978,29816,No,Mobile,Card,22579
+1662,2027-04-23,51,Female,Lagos,Electronics,Organic,6332,27258,No,Mobile,Card,13977
+1663,2027-04-24,23,Male,Enugu,Fashion,Google Ads,2961,22937,No,Mobile,Card,12392
+1664,2027-04-25,19,Female,Ibadan,Home Appliances,Facebook Ads,3226,22396,No,Desktop,Bank Transfer,12847
+1665,2027-04-26,30,Female,Abuja,Beauty,Instagram Ads,5686,13378,No,Mobile,Card,-81
+1666,2027-04-27,28,Male,Lagos,Groceries,Instagram Ads,6837,6881,Yes,Mobile,Card,-6550
+1667,2027-04-28,40,Female,Kano,Electronics,Organic,5841,11799,Yes,Mobile,Bank Transfer,1390
+1668,2027-04-29,33,Male,Port Harcourt,Fashion,Facebook Ads,6614,19597,No,Mobile,Bank Transfer,9098
+1669,2027-04-30,48,Male,Ibadan,Beauty,Instagram Ads,1098,18675,No,Desktop,Card,10319
+1670,2027-05-01,28,Male,Abuja,Electronics,Google Ads,2324,9586,No,Mobile,Card,3963
+1671,2027-05-02,33,Female,Enugu,Electronics,Instagram Ads,939,13430,No,Desktop,Card,8153
+1672,2027-05-03,25,Female,Lagos,Beauty,Google Ads,3716,27831,Yes,Mobile,Card,21039
+1673,2027-05-04,21,Male,Abuja,Fashion,Instagram Ads,3414,7345,No,Desktop,Bank Transfer,-1827
+1674,2027-05-05,21,Male,Enugu,Fashion,Instagram Ads,1448,21459,No,Mobile,Card,14830
+1675,2027-05-06,42,Female,Abuja,Home Appliances,WhatsApp Referrals,570,14548,Yes,Desktop,Bank Transfer,7168
+1676,2027-05-07,20,Male,Ibadan,Groceries,Google Ads,2904,10877,No,Mobile,COD,5026
+1677,2027-05-08,49,Male,Ibadan,Beauty,Facebook Ads,5096,11785,No,Mobile,Card,951
+1678,2027-05-09,20,Female,Ibadan,Beauty,Google Ads,5301,20833,No,Mobile,COD,10801
+1679,2027-05-10,44,Male,Kano,Beauty,Organic,2505,9922,No,Mobile,Card,1410
+1680,2027-05-11,46,Female,Kano,Fashion,Organic,917,29474,No,Desktop,Card,25688
+1681,2027-05-12,49,Male,Lagos,Groceries,Facebook Ads,1874,23714,Yes,Mobile,Card,14674
+1682,2027-05-13,36,Female,Ibadan,Home Appliances,WhatsApp Referrals,4928,9686,No,Mobile,Card,2665
+1683,2027-05-14,38,Male,Enugu,Electronics,Instagram Ads,6982,19407,No,Mobile,Card,7438
+1684,2027-05-15,22,Male,Abuja,Electronics,Facebook Ads,6336,23286,Yes,Mobile,Card,10295
+1685,2027-05-16,35,Female,Port Harcourt,Beauty,Facebook Ads,1678,17205,Yes,Mobile,Bank Transfer,11752
+1686,2027-05-17,45,Male,Enugu,Groceries,Facebook Ads,615,26054,No,Mobile,COD,21179
+1687,2027-05-18,39,Female,Kano,Fashion,Organic,4501,28527,No,Mobile,Bank Transfer,21591
+1688,2027-05-19,38,Male,Kano,Groceries,Facebook Ads,1749,18179,Yes,Desktop,Card,9483
+1689,2027-05-20,23,Female,Enugu,Groceries,Facebook Ads,3825,23443,No,Mobile,Bank Transfer,13318
+1690,2027-05-21,18,Female,Kano,Fashion,Organic,6864,21524,No,Mobile,Bank Transfer,9516
+1691,2027-05-22,22,Female,Ibadan,Beauty,Instagram Ads,4188,23173,Yes,Desktop,COD,13398
+1692,2027-05-23,29,Female,Lagos,Groceries,Facebook Ads,2477,5016,Yes,Mobile,COD,-4656
+1693,2027-05-24,43,Male,Abuja,Electronics,Facebook Ads,4749,18374,No,Mobile,COD,11549
+1694,2027-05-25,51,Male,Lagos,Fashion,Facebook Ads,3505,21848,Yes,Mobile,Card,15528
+1695,2027-05-26,31,Female,Abuja,Home Appliances,Facebook Ads,3475,25855,No,Mobile,Bank Transfer,19613
+1696,2027-05-27,43,Female,Abuja,Beauty,Google Ads,4529,23211,Yes,Mobile,Card,12997
+1697,2027-05-28,44,Female,Lagos,Fashion,Facebook Ads,1135,10956,No,Desktop,COD,7716
+1698,2027-05-29,26,Male,Enugu,Home Appliances,Facebook Ads,4000,21473,No,Mobile,Card,11557
+1699,2027-05-30,43,Male,Abuja,Home Appliances,Organic,374,9815,No,Mobile,Card,4568
+1700,2027-05-31,39,Male,Lagos,Groceries,Google Ads,5162,24235,No,Desktop,Card,13727
+1701,2027-06-01,47,Male,Abuja,Groceries,Instagram Ads,206,7843,No,Desktop,Bank Transfer,-205
+1702,2027-06-02,34,Female,Port Harcourt,Groceries,Google Ads,4875,20972,No,Mobile,Card,10949
+1703,2027-06-03,43,Female,Enugu,Fashion,Instagram Ads,1319,27927,No,Mobile,Card,21460
+1704,2027-06-04,53,Female,Ibadan,Fashion,Instagram Ads,1141,27285,Yes,Mobile,COD,22679
+1705,2027-06-05,18,Male,Abuja,Beauty,Google Ads,4627,22353,No,Desktop,COD,13139
+1706,2027-06-06,25,Male,Port Harcourt,Groceries,Instagram Ads,6309,6094,Yes,Desktop,Card,-2459
+1707,2027-06-07,52,Male,Ibadan,Home Appliances,WhatsApp Referrals,2690,11124,No,Mobile,Card,3809
+1708,2027-06-08,32,Female,Ibadan,Electronics,Facebook Ads,3255,28731,No,Mobile,COD,19627
+1709,2027-06-09,39,Female,Abuja,Beauty,Organic,89,24579,No,Mobile,COD,21085
+1710,2027-06-10,31,Male,Lagos,Fashion,Facebook Ads,5213,6404,Yes,Desktop,Bank Transfer,-1790
+1711,2027-06-11,43,Female,Abuja,Beauty,Organic,4108,28324,No,Mobile,Bank Transfer,16384
+1712,2027-06-12,45,Male,Port Harcourt,Beauty,Google Ads,3020,25674,No,Mobile,Card,16846
+1713,2027-06-13,40,Male,Ibadan,Beauty,Organic,1857,8982,No,Desktop,COD,4984
+1714,2027-06-14,31,Female,Abuja,Beauty,Facebook Ads,804,17515,No,Mobile,Bank Transfer,13819
+1715,2027-06-15,41,Male,Lagos,Electronics,Google Ads,944,20790,Yes,Mobile,Bank Transfer,12359
+1716,2027-06-16,19,Female,Abuja,Groceries,Google Ads,2789,17205,No,Mobile,Card,10017
+1717,2027-06-17,43,Male,Enugu,Home Appliances,Organic,5953,26939,No,Mobile,COD,14346
+1718,2027-06-18,31,Female,Lagos,Beauty,Google Ads,3875,29338,No,Mobile,Bank Transfer,20503
+1719,2027-06-19,24,Female,Port Harcourt,Beauty,Google Ads,1610,17748,No,Mobile,Card,11939
+1720,2027-06-20,20,Female,Ibadan,Beauty,Instagram Ads,2923,26097,Yes,Mobile,Bank Transfer,19705
+1721,2027-06-21,40,Male,Abuja,Groceries,Instagram Ads,6055,8092,Yes,Desktop,Bank Transfer,-2663
+1722,2027-06-22,35,Male,Lagos,Fashion,Instagram Ads,3882,25543,No,Mobile,Bank Transfer,16656
+1723,2027-06-23,52,Female,Enugu,Fashion,Facebook Ads,3221,27692,Yes,Mobile,Bank Transfer,17613
+1724,2027-06-24,32,Female,Lagos,Electronics,WhatsApp Referrals,6803,28862,No,Mobile,Bank Transfer,16685
+1725,2027-06-25,42,Male,Kano,Fashion,Organic,5148,29860,No,Desktop,COD,17993
+1726,2027-06-26,54,Male,Enugu,Beauty,WhatsApp Referrals,4391,18971,Yes,Desktop,Card,11925
+1727,2027-06-27,45,Male,Port Harcourt,Beauty,Facebook Ads,5021,19616,No,Mobile,Card,9827
+1728,2027-06-28,27,Female,Ibadan,Beauty,Organic,4735,9933,Yes,Mobile,Card,-2145
+1729,2027-06-29,34,Male,Port Harcourt,Electronics,Organic,2387,9926,No,Mobile,Bank Transfer,5497
+1730,2027-06-30,39,Male,Abuja,Beauty,Google Ads,4723,8969,Yes,Mobile,Bank Transfer,-65
+1731,2027-07-01,43,Female,Lagos,Fashion,Google Ads,6582,7965,Yes,Mobile,COD,-5739
+1732,2027-07-02,42,Male,Kano,Groceries,Instagram Ads,5263,9319,No,Desktop,Bank Transfer,396
+1733,2027-07-03,34,Male,Enugu,Groceries,Organic,941,13975,No,Desktop,Bank Transfer,5647
+1734,2027-07-04,30,Male,Enugu,Home Appliances,Google Ads,4925,12108,No,Mobile,COD,492
+1735,2027-07-05,37,Female,Lagos,Fashion,Facebook Ads,5866,14141,No,Desktop,Card,1167
+1736,2027-07-06,42,Female,Kano,Beauty,Instagram Ads,2566,25323,No,Desktop,COD,18533
+1737,2027-07-07,21,Female,Lagos,Groceries,WhatsApp Referrals,975,21428,No,Mobile,Card,16343
+1738,2027-07-08,27,Female,Abuja,Fashion,Organic,954,6810,No,Mobile,Bank Transfer,2899
+1739,2027-07-09,20,Female,Port Harcourt,Groceries,WhatsApp Referrals,1262,25950,No,Desktop,Bank Transfer,22128
+1740,2027-07-10,35,Female,Enugu,Beauty,Google Ads,5047,15273,No,Mobile,Bank Transfer,6896
+1741,2027-07-11,53,Female,Abuja,Groceries,Facebook Ads,943,14021,No,Desktop,Card,9766
+1742,2027-07-12,39,Male,Port Harcourt,Home Appliances,Facebook Ads,2202,23293,No,Desktop,Card,17270
+1743,2027-07-13,51,Male,Abuja,Home Appliances,Facebook Ads,5300,11364,No,Mobile,Bank Transfer,1062
+1744,2027-07-14,25,Female,Kano,Groceries,Facebook Ads,6231,7581,No,Desktop,COD,-4053
+1745,2027-07-15,36,Male,Enugu,Fashion,Instagram Ads,3327,5691,No,Desktop,Card,-5282
+1746,2027-07-16,54,Male,Lagos,Fashion,Facebook Ads,5630,5931,No,Mobile,COD,-6644
+1747,2027-07-17,23,Female,Lagos,Fashion,Instagram Ads,5192,18128,Yes,Mobile,Card,5562
+1748,2027-07-18,43,Male,Port Harcourt,Groceries,WhatsApp Referrals,4274,29294,No,Mobile,Bank Transfer,20369
+1749,2027-07-19,51,Male,Ibadan,Fashion,Instagram Ads,2259,19226,Yes,Mobile,Bank Transfer,9338
+1750,2027-07-20,23,Male,Kano,Beauty,Organic,1828,18861,No,Mobile,Bank Transfer,13219
+1751,2027-07-21,54,Male,Port Harcourt,Home Appliances,Google Ads,1257,20475,Yes,Mobile,COD,15477
+1752,2027-07-22,50,Male,Ibadan,Beauty,Facebook Ads,464,27766,No,Mobile,Bank Transfer,20601
+1753,2027-07-23,39,Female,Abuja,Fashion,Instagram Ads,5870,8406,Yes,Mobile,Bank Transfer,-3272
+1754,2027-07-24,38,Female,Kano,Beauty,Facebook Ads,3294,13339,Yes,Desktop,Card,5168
+1755,2027-07-25,23,Female,Abuja,Fashion,Instagram Ads,6774,22416,No,Desktop,Card,8060
+1756,2027-07-26,23,Male,Enugu,Groceries,Google Ads,6968,22695,No,Desktop,Card,10457
+1757,2027-07-27,21,Female,Kano,Beauty,Facebook Ads,1230,13579,Yes,Mobile,Bank Transfer,4959
+1758,2027-07-28,47,Male,Ibadan,Groceries,Facebook Ads,2654,8121,No,Desktop,Card,-616
+1759,2027-07-29,28,Male,Enugu,Groceries,Instagram Ads,884,23257,No,Desktop,Card,19628
+1760,2027-07-30,47,Male,Lagos,Electronics,WhatsApp Referrals,3805,28165,Yes,Mobile,Card,21803
+1761,2027-07-31,48,Male,Ibadan,Fashion,Organic,6509,20946,Yes,Mobile,Card,9136
+1762,2027-08-01,41,Female,Port Harcourt,Home Appliances,Organic,6419,8748,No,Mobile,Card,-612
+1763,2027-08-02,26,Female,Lagos,Fashion,Facebook Ads,6523,5277,No,Desktop,COD,-7269
+1764,2027-08-03,20,Male,Lagos,Home Appliances,Organic,5428,23243,Yes,Mobile,Bank Transfer,13519
+1765,2027-08-04,48,Female,Port Harcourt,Fashion,Organic,5750,16563,No,Mobile,Bank Transfer,3448
+1766,2027-08-05,54,Male,Kano,Groceries,Google Ads,5040,27313,No,Mobile,Bank Transfer,19334
+1767,2027-08-06,53,Female,Lagos,Beauty,WhatsApp Referrals,3856,11792,No,Mobile,Card,4326
+1768,2027-08-07,41,Female,Ibadan,Beauty,Instagram Ads,3135,26097,No,Mobile,COD,19237
+1769,2027-08-08,48,Male,Enugu,Electronics,WhatsApp Referrals,6953,18918,No,Mobile,Card,8981
+1770,2027-08-09,23,Female,Lagos,Home Appliances,WhatsApp Referrals,924,15374,No,Mobile,Card,10863
+1771,2027-08-10,19,Male,Ibadan,Home Appliances,Facebook Ads,6034,9675,No,Desktop,Bank Transfer,-2380
+1772,2027-08-11,37,Female,Abuja,Home Appliances,Instagram Ads,4589,6170,No,Mobile,Card,-1755
+1773,2027-08-12,45,Male,Ibadan,Groceries,WhatsApp Referrals,1546,13681,No,Mobile,Bank Transfer,4165
+1774,2027-08-13,28,Male,Enugu,Home Appliances,Facebook Ads,6065,15717,No,Mobile,Card,4515
+1775,2027-08-14,21,Female,Ibadan,Beauty,Google Ads,1094,17450,Yes,Mobile,Bank Transfer,13695
+1776,2027-08-15,32,Female,Port Harcourt,Groceries,WhatsApp Referrals,2411,15680,No,Mobile,Card,11237
+1777,2027-08-16,23,Male,Enugu,Fashion,Google Ads,2617,15068,No,Mobile,Card,4539
+1778,2027-08-17,47,Female,Kano,Home Appliances,Facebook Ads,5921,26692,No,Desktop,Bank Transfer,12786
+1779,2027-08-18,19,Female,Abuja,Home Appliances,Google Ads,762,7462,No,Desktop,Card,1286
+1780,2027-08-19,32,Male,Port Harcourt,Fashion,Facebook Ads,2323,18650,No,Desktop,Card,13171
+1781,2027-08-20,28,Male,Kano,Home Appliances,Google Ads,4145,5287,Yes,Mobile,Card,-3984
+1782,2027-08-21,25,Female,Ibadan,Fashion,Facebook Ads,2775,27337,No,Mobile,Bank Transfer,22502
+1783,2027-08-22,43,Male,Enugu,Groceries,Google Ads,5001,25666,No,Desktop,Bank Transfer,14737
+1784,2027-08-23,22,Male,Abuja,Beauty,Google Ads,4659,23291,Yes,Mobile,Card,15089
+1785,2027-08-24,23,Male,Port Harcourt,Fashion,Organic,4878,6161,Yes,Mobile,COD,-988
+1786,2027-08-25,43,Female,Kano,Electronics,Google Ads,6628,21513,No,Mobile,COD,7590
+1787,2027-08-26,21,Female,Kano,Fashion,Google Ads,3155,27721,Yes,Mobile,Bank Transfer,18490
+1788,2027-08-27,36,Male,Abuja,Home Appliances,Google Ads,3970,7363,Yes,Mobile,Bank Transfer,-1995
+1789,2027-08-28,37,Female,Ibadan,Groceries,Facebook Ads,2040,29535,No,Desktop,Card,19593
+1790,2027-08-29,50,Male,Abuja,Groceries,Google Ads,5927,10983,No,Mobile,Bank Transfer,304
+1791,2027-08-30,37,Female,Kano,Fashion,Facebook Ads,583,21527,No,Mobile,Card,16235
+1792,2027-08-31,29,Male,Lagos,Beauty,WhatsApp Referrals,5415,13207,No,Desktop,Card,4638
+1793,2027-09-01,18,Male,Port Harcourt,Electronics,Facebook Ads,4331,28853,Yes,Desktop,COD,17301
+1794,2027-09-02,43,Female,Abuja,Groceries,Instagram Ads,2103,19758,No,Mobile,Bank Transfer,11250
+1795,2027-09-03,31,Male,Kano,Home Appliances,Google Ads,1942,5244,No,Mobile,Card,-2551
+1796,2027-09-04,54,Female,Ibadan,Home Appliances,Instagram Ads,4455,22310,No,Desktop,Card,10444
+1797,2027-09-05,28,Female,Kano,Beauty,Facebook Ads,6026,8178,No,Desktop,Bank Transfer,-1593
+1798,2027-09-06,53,Male,Ibadan,Groceries,Google Ads,109,7176,No,Mobile,Card,1635
+1799,2027-09-07,30,Male,Abuja,Fashion,Google Ads,191,10002,No,Desktop,Card,7474
+1800,2027-09-08,20,Female,Ibadan,Home Appliances,Organic,903,5886,No,Mobile,Card,2974
