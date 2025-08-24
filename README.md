@@ -31,4 +31,4 @@ The dashboard tracks key metrics including:
 ## 🚀 How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/okaforchukwuka/shop-ease-ads-performance-dashboard.git
+   git clone https://github.com/okaforchukwuka/shop-ease-ads-performance-dashboard.gi
