@@ -1,5 +1,7 @@
 # Shop Ease NG Ads Performance Dashboard  
 
+![Dashboard Screenshot](https://raw.githubusercontent.com/OkaforChukwuka/Shop-Ease-ads-Performance-Dashboard/refs/heads/main/Screenshot%202025-08-19%20164938.jpg)  
+
 This repository contains a Power BI dashboard that analyzes advertising performance for **Shop Ease NG**.  
 It provides insights into ad spend, revenue generation, customer demographics, and marketing channel effectiveness.  
 
@@ -22,13 +24,9 @@ The dashboard tracks key metrics including:
 
 ## 🛠️ Tools Used  
 - **Power BI** for data visualization  
-- **Sample/Anonymized Marketing Data** for analysis
-- **Goggle Sheet for cleaning and sorting the Data for visualization   
-
-## 📷 Screenshot  
-![Dashboard Screenshot](https://raw.githubusercontent.com/OkaforChukwuka/Shop-Ease-ads-Performance-Dashboard/refs/heads/main/Screenshot%202025-08-19%20164938.jpg)  
+- **Sample/Anonymized Marketing Data** for analysis  
 
 ## 🚀 How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/okaforchukwuka/shop-ease-ads-performance-dashboard.gi
+   git clone https://github.com/YourUsername/shop-ease-ads-performance-dashboard.git
